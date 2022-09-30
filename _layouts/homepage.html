@@ -28,7 +28,7 @@
       <header>
 
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar"/></a> <!--onContextMenu="return false"-->
+        <a class="mr-3 img-fluid picture mx-auto"><img src="{{site.avatar}}" alt="avatar"/></a> <!--onContextMenu="return false"   class:image avatar-->
         {% endif %}
 
         <h1>{{ site.title }}</h1>
@@ -45,6 +45,8 @@
         <a href="mailto: ibo@pku.edu.cn"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-6"></i>ibo@pku.edu.cn</a>
         <!--/li-->
         <br>
+        <a href="mailto: yibo.yang93@gmail.com"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-6"></i>yibo.yang93@gmail.com</a>
+        <br>
         <a href="wechatid"><i class="fab fa-weixin fa-fw mr-2" data-fa-transform="grow-6"></i>iboing</a>
         <br>
         <!--{% endif %}-->
@@ -54,7 +56,7 @@
 
       {{ content }}
 
-      <br>
+      <!--<br>-->
 
       <!--<p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>-->
 
