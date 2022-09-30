@@ -28,7 +28,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Advances in Neural Information Processing Systems, **NeurIPS 2022**
   <br>
-  [[PDF]] [[Code]] <!--<strong><i style="color:#e74d3c">Oral Presentation</i></strong>-->
+  [PDF] [Code] <!--<strong><i style="color:#e74d3c">Oral Presentation</i></strong>-->
 
 - **Do We Really Need a Learnable Classifier at the End of Deep Neural Network?**
   <br>
@@ -36,7 +36,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Advances in Neural Information Processing Systems, **NeurIPS 2022**
   <br>
-  [[PDF](https://arxiv.org/pdf/2203.09081)] [[Code]]
+  [[PDF](https://arxiv.org/pdf/2203.09081)] [Code]
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
