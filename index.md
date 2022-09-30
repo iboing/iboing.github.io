@@ -157,6 +157,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
 
 ## Honors and Awards
+
 <br>**[Honors]**
 - [2021] Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Artificial Intelligence)
 - [2021] Outstanding Graduates in Beijing
@@ -173,6 +174,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - [2014] Second Prize in Jiangsu Provincial Advanced Mathematics Contest
 
 ## Services
+
 <br>**[Reviewer to Journals]**
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
 - International Journal of Computer Vision (IJCV);
