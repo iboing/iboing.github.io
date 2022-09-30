@@ -125,7 +125,45 @@ PKU_ZERO)</font>
  <br>
  [[PDF](https://arxiv.org/pdf/1911.10305)]
 
+- **Expectation-Maximization Attention Networks for Semantic Segmentation**
+  <br>
+  Xia Li, Zhisheng Zhong, Jianlong Wu, **Yibo Yang**, Zhouchen Lin, Hong Liu
+  <br>
+  IEEE/CVF International Conference in Computer Vision, **ICCV, 2019**
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Expectation-Maximization_Attention_Networks_for_Semantic_Segmentation_ICCV_2019_paper.pdf)] [[Code](https://github.com/XiaLiPKU/EMANet)]
+  <br>
+  <font color=red>Oral Presentation (4.3%)</font>
 
+- **Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-resolution**
+  <br>
+  Zhisheng Zhong, Tiancheng Shen, **Yibo Yang**, Zhouchen Lin, Chao Zhang
+  <br>
+  Advances in Neural Information Processing Systems, **NeurIPS 2018**
+  <br>
+  [[PDF](https://papers.nips.cc/paper/7301-joint-sub-bands-learning-with-clique-structures-for-wavelet-domain-super-resolution.pdf)]
+
+- **Optimization Algorithm Inspired Deep Neural Network Structure Design**
+  <br>
+  Huan Li\*, **Yibo Yang\***, Dongmin Chen, Zhouchen Lin
+  <br>
+  Asian Conference on Machine Learning, **ACML 2018**
+  <br>
+  [[PDF](https://arxiv.org/pdf/1810.01638)]
+  <br>
+  <font color=red>Oral Presentation</font>
+
+- **Convolutional Neural Networks with Alternately Updated Clique**
+  <br>
+  **Yibo Yang**, Zhisheng Zhong, Tiancheng Shen, Zhouchen Lin
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR, 2018**
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Convolutional_Neural_Networks_CVPR_2018_paper.pdf)] [[Code](https://github.com/iboing/CliqueNet)]
+  <br>
+  <font color=red>Oral Presentation (2.1%)</font>
+  <br>
+  <font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
 
 
 ## Services
