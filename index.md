@@ -160,7 +160,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## Honors and Awards
 
-[Honors]
+**[Honors]**
 - [2021] Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Arti cial Intelligence)
 - [2021] Outstanding Graduates in Beijing
 - [2021] Outstanding Graduates in Peking University
@@ -168,7 +168,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - [2019] Outstanding Academic Award in Peking University
 - [2014] Provincial Merit Student in Jiangsu Province
 
-[Awards]
+**[Awards]**
 - [2021] First Place Winner of Segmenting and Tracking Every Point and Pixel in ICCV 2021
 - [2019] Most Innovative Award of Panoptic Segmentation in COCO 2019 Challenge in ICCV 2019
 - [2018] Runner-up Winner of Panoptic Segmentation in COCO 2018 Challenge in ECCV 2018
