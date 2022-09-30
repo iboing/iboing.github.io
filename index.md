@@ -70,9 +70,9 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   European Conference on Computer Vision, **ECCV 2022**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2112.02582)] [[Code]
+  [[PDF](https://arxiv.org/pdf/2112.02582)] [[Code](https://github.com/HarborYuan/PolyphonicFormer)]
   <br>
-  (https://github.com/kunkun0w0/SGA)] <font color=red>(The method in this paper also won the first place in Segmenting and Tracking Every Point and Pixel challenge in ICCV 2021)</font>
+  <font color=red>(The method in this paper also won the first place in Segmenting and Tracking Every Point and Pixel challenge in ICCV 2021)</font>
 
 
 
