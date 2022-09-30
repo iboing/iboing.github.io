@@ -82,7 +82,21 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ARTPoint_Improving_Rotation_Robustness_of_Point_Cloud_Classifiers_via_Adversarial_CVPR_2022_paper.pdf)] [[Code](https://github.com/robinwang1/ART-Point)]
 
+- **Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search**
+  <br>
+  **Yibo Yang**, Shan You, Hongyang Li, Fei Wang, Chen Qian, Zhouchen Lin
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2021**.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Towards_Improving_the_Consistency_Efficiency_and_Flexibility_of_Differentiable_Neural_CVPR_2021_paper.pdf)]
 
+- **ISTA-NAS: Efficient and Consistent Neural Architecture Search by Sparse Coding**
+  <br>
+  **Yibo Yang**, Hongyang Li, Shan You, Fei Wang, Chen Qian, Zhouchen Lin
+  <br>
+  Advances in Neural Information Processing Systems, **NeurIPS 2020**
+  <br>
+  [[PDF](https://proceedings.neurips.cc/paper/2020/file/76cf99d3614e23eabab16fb27e944bf9-Paper.pdf)] [[Code](https://github.com/iboing/ISTA-NAS)]
 
 
 ## Services
