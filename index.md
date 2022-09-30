@@ -6,12 +6,14 @@ layout: homepage
 
 Currently, I am a Research Scientist in JD Explore Academy working with Prof. Dacheng Tao. Prior to that, I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/) in 2021. I received my bachelor's degree of applied physics from Nanjing University of Information Science & Technology in 2016.
 
+<br>
 ## Research Interests
 
 - **Reliable Machine Learning**
 - **Interpretable Neural Architecture**
 - **Unified Computer Vision**
 
+<br>
 ## News
 
 - **[2022.09]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Two (first-author) papers are accepted by NeurIPS 2022.
@@ -20,6 +22,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - **[2022.03]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by CVPR 2022.
 - **[2022.02]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
 
+<br>
 ## Publications
 
 (*: equal contributions; #: corresponding author)
@@ -110,7 +113,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
  <br>
  **Yibo Yang**, Hongyang Li, Xia Li, Qijie Zhao, Jianlong Wu, Zhouchen Lin
  <br>
- AAAI Conference on Artificial Intelligence, **AAAI, 2020**
+ AAAI Conference on Artificial Intelligence, **AAAI, 2020**.
  <br>
  [[PDF](https://arxiv.org/pdf/1911.07527)] [[Code](https://github.com/LaoYang1994/SOGNet)]
  <br>
