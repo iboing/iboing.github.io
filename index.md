@@ -14,11 +14,11 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## News
 
-- **[2022.09]** Two (first-author) papers are accepted by NeurIPS 2022.
-- **[2022.09]** One paper is accepted by TPAMI.
-- **[2022.06]** Four papers are accepted by ECCV 2022.
-- **[2022.03]** One paper is accepted by CVPR 2022.
-- **[2022.02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
+- **[2022.09]** <i class="fas fa-exclamation-triangle fa-fw mr-2"></i>Two (first-author) papers are accepted by NeurIPS 2022.
+- **[2022.09]** <i class="fas fa-exclamation-triangle fa-fw mr-2"></i>One paper is accepted by TPAMI.
+- **[2022.06]** <i class="fas fa-exclamation-triangle fa-fw mr-2"></i>Four papers are accepted by ECCV 2022.
+- **[2022.03]** <i class="fas fa-exclamation-triangle fa-fw mr-2"></i>One paper is accepted by CVPR 2022.
+- **[2022.02]** <i class="fas fa-exclamation-triangle fa-fw mr-2"></i>I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
 
 ## Publications
 
@@ -70,9 +70,11 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   European Conference on Computer Vision, **ECCV 2022**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2112.02582)] [[Code](https://github.com/kunkun0w0/SGA)] <font color=red>(The method in this paper also won the first place in Segmenting and Tracking Every Point and Pixel challenge in ICCV 2021)</font>
+  [[PDF](https://arxiv.org/pdf/2112.02582)] [[Code]
+  <br>
+  (https://github.com/kunkun0w0/SGA)] <font color=red>(The method in this paper also won the first place in Segmenting and Tracking Every Point and Pixel challenge in ICCV 2021)</font>
 
-  
+
 
 ## Services
 
