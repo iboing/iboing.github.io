@@ -113,12 +113,11 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
  <br>
  **Yibo Yang**, Hongyang Li, Xia Li, Qijie Zhao, Jianlong Wu, Zhouchen Lin
  <br>
- AAAI Conference on Artificial Intelligence, **AAAI, 2020**.
+ AAAI Conference on Artificial Intelligence, **AAAI 2020**.
  <br>
  [[PDF](https://arxiv.org/pdf/1911.07527)] [[Code](https://github.com/LaoYang1994/SOGNet)]
  <br>
  <p><font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019)</font></p>
-
 
 - **Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families**
  <br>
@@ -156,7 +155,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   **Yibo Yang**, Zhisheng Zhong, Tiancheng Shen, Zhouchen Lin
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR, 2018**, <font color=red>Oral Presentation (2.1%)</font>
+  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2018**, <font color=red>Oral Presentation (2.1%)</font>
   <br>
   [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Convolutional_Neural_Networks_CVPR_2018_paper.pdf)] [[Code](https://github.com/iboing/CliqueNet)]
   <p><font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font></p>
