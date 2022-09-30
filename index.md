@@ -87,7 +87,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   **Yibo Yang**, Shan You, Hongyang Li, Fei Wang, Chen Qian, Zhouchen Lin
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2021**.
+  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2021**
   <br>
   [[PDF](http://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Towards_Improving_the_Consistency_Efficiency_and_Flexibility_of_Differentiable_Neural_CVPR_2021_paper.pdf)]
 
@@ -99,6 +99,25 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   [[PDF](https://proceedings.neurips.cc/paper/2020/file/76cf99d3614e23eabab16fb27e944bf9-Paper.pdf)] [[Code](https://github.com/iboing/ISTA-NAS)]
 
+- **Spatial Pyramid Based Graph Reasoning for Semantic Segmentation**
+  <br>
+  Xia Li\*, **Yibo Yang\***, Qijie Zhao, Tiancheng Shen, Zhouchen Lin, Hong Liu
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2020**
+  <br>
+  [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Spatial_Pyramid_Based_Graph_Reasoning_for_Semantic_Segmentation_CVPR_2020_paper.pdf)]
+
+- **SOGNet: Scene Overlap Graph Network for Panoptic Segmentation**
+ <br>
+ **Yibo Yang**, Hongyang Li, Xia Li, Qijie Zhao, Jianlong Wu, Zhouchen Lin
+ <br>
+ AAAI Conference on Artificial Intelligence, **AAAI, 2020**
+ <br>
+ [[PDF](https://arxiv.org/pdf/1911.07527)] [[Code](https://github.com/LaoYang1994/SOGNet)]
+ <br>
+ <font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019, team:
+PKU_ZERO)</font>
+ <br>
 
 ## Services
 
