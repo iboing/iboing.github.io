@@ -22,7 +22,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## Publications
 
-(*: equal contributions; $$^{\textrm{\Letter}}$$ corresponding author)
+(*: equal contributions; #: corresponding author)
 
 - **Towards Theoretically Inspired Neural Initialization Optimization**
   <br>
@@ -47,6 +47,32 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   European Conference on Computer Vision, **ECCV 2022**.
   <br>
   [[PDF](http://arxiv.org/abs/2207.06095)] [[Code](https://github.com/kunkun0w0/SGA)]
+
+- **View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums**
+  <br>
+  Conghao Wong, Beihao Xia, Ziming Hong, Qinmu Peng, Wei Yuan, Qiong Cao, **Yibo Yang**, Xinge You
+  <br>
+  European Conference on Computer Vision, **ECCV 2022**.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2110.07288.pdf)] [[Code](https://github.com/cocoon2wong/Vertical)]
+
+- **Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation**
+  <br>
+  Xiangtai Li, Shilin Xu, **Yibo Yang**, Guangliang Cheng, Yunhai Tong, Dacheng Tao
+  <br>
+  European Conference on Computer Vision, **ECCV 2022**.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2204.04655.pdf)] [[Code](https://github.com/lxtGH/Panoptic-PartFormer)]
+
+- **PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation**
+  <br>
+  Haobo Yuan, Xiangtai Li, **Yibo Yang#**, Giangliang Cheng, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao
+  <br>
+  European Conference on Computer Vision, **ECCV 2022**.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2112.02582)] [[Code](https://github.com/kunkun0w0/SGA)] <font color=red>(The method in this paper also won the first place in Segmenting and Tracking Every Point and Pixel challenge in ICCV 2021)</font>
+
+  
 
 ## Services
 
