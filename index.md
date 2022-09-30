@@ -117,6 +117,17 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
  <font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019, team:
 PKU_ZERO)</font>
 
+- **Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families**
+ <br>
+ **Yibo Yang**, Jianlong Wu, Hongyang Li, Xia Li, Tiancheng Shen, Zhouchen Lin
+ <br>
+ AAAI Conference on Artificial Intelligence, **AAAI, 2020**
+ <br>
+ [[PDF](https://arxiv.org/pdf/1911.10305)]
+
+
+
+
 ## Services
 
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
