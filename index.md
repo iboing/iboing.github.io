@@ -158,6 +158,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Convolutional_Neural_Networks_CVPR_2018_paper.pdf)] [[Code](https://github.com/iboing/CliqueNet)]
   <p><font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font></p>
 
+<br>
 ## Honors and Awards
 
 **[Honors]**
@@ -176,6 +177,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - [2015] Finalist Award in American Interdisciplinary Contest in Modeling
 - [2014] Second Prize in Jiangsu Provincial Advanced Mathematics Contest
 
+<br>
 ## Services
 
 **Reviewer to Journals**
