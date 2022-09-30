@@ -113,7 +113,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
  AAAI Conference on Artificial Intelligence, **AAAI 2020**.
  <br>
  [[PDF](https://arxiv.org/pdf/1911.07527)] [[Code](https://github.com/LaoYang1994/SOGNet)]
- <br><p><font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019)</font></p>
+ <p><font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019)</font></p>
 
 - **Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families**
  <br>
@@ -164,7 +164,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - [2020] Presidential Fellowship in Peking University
 - [2019] Outstanding Academic Award in Peking University
 - [2014] Provincial Merit Student in Jiangsu Province
-**[Awards]**
+<br>**[Awards]**
 - [2021] First Place Winner of Segmenting and Tracking Every Point and Pixel in ICCV 2021
 - [2019] Most Innovative Award of Panoptic Segmentation in COCO 2019 Challenge in ICCV 2019
 - [2018] Runner-up Winner of Panoptic Segmentation in COCO 2018 Challenge in ECCV 2018
@@ -178,7 +178,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - International Journal of Computer Vision (IJCV);
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
 - IEEE Transactions on Image Processing (TIP);
-**Reviewer to Conferences**
+<br>**Reviewer to Conferences**
 - Advances in Neural Information Processing Systems (NeurIPS), 2022/2021/2020/2019;
 - International Conference on Machine Learning (ICML), 2022/2021/2020;
 - International Conference on Learning Representations (ICLR), 2023/2022/2021;
