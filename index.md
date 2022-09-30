@@ -74,6 +74,15 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   <font color=red>(The method in this paper also won the first place in Segmenting and Tracking Every Point and Pixel challenge in ICCV 2021)</font>
 
+- **ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation**
+  <br>
+  Ruibin Wang, **Yibo Yang#**, Dacheng Tao
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2022**.
+  <br>
+  [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ARTPoint_Improving_Rotation_Robustness_of_Point_Cloud_Classifiers_via_Adversarial_CVPR_2022_paper.pdf)] [[Code](https://github.com/robinwang1/ART-Point)]
+
+
 
 
 ## Services
