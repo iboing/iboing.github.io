@@ -40,13 +40,13 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   [[PDF](https://arxiv.org/pdf/2203.09081)] [Code]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Eliminating Gradient Conflict in Reference-based Line-art Colorization**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  Zekun Li, Zhengyang Geng, Zhao Kang, Wenyu Chen, **Yibo Yang**
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  European Conference on Computer Vision, **ECCV 2022**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](http://arxiv.org/abs/2207.06095)] [[Code](https://github.com/kunkun0w0/SGA)]
 
 ## Services
 
