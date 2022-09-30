@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-Currently, I am a Research Scientist in JD Explore Academy working with Prof. Dacheng Tao. Prior to that, I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin] (https://zhouchenlin.github.io/). I received my bachelor's degree of applied physics from Nanjing University of Information Science & Technology in 2016.
+Currently, I am a Research Scientist in JD Explore Academy working with Prof. Dacheng Tao. Prior to that, I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/). I received my bachelor's degree of applied physics from Nanjing University of Information Science & Technology in 2016.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Reliable Machine Learning**
+- **Interpretable Neural Architecture**
+- **Unified Computer Vision**
 
 ## News
 
