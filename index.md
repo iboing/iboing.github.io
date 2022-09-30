@@ -161,7 +161,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 ## Honors and Awards
 
 **[Honors]**
-- [2021] Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Arti cial Intelligence)
+- [2021] Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Artificial Intelligence)
 - [2021] Outstanding Graduates in Beijing
 - [2021] Outstanding Graduates in Peking University
 - [2020] Presidential Fellowship in Peking University
@@ -178,5 +178,17 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+**Reviewer to Journals**
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
+- International Journal of Computer Vision (IJCV);
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
+- IEEE Transactions on Image Processing (TIP);
+
+**Reviewer to Conferences**
+- Advances in Neural Information Processing Systems (NeurIPS), 2022/2021/2020/2019;
+- International Conference on Machine Learning (ICML), 2022/2021/2020;
+- International Conference on Learning Representations (ICLR), 2023/2022/2021;
+- European Conference on Computer Vision (ECCV), 2022;
+- International Conference on Computer Vision (ICCV), 2021;
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022/2021;
+- Association for the Advancement of Artificial Intelligence (AAAI), 2022;
