@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Currently, I am a Research Scientist in JD Explore Academy working with Prof. Dacheng Tao. Prior to that, I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/). I received my bachelor's degree of applied physics from Nanjing University of Information Science & Technology in 2016.
+Currently, I am a Research Scientist in JD Explore Academy working with Prof. Dacheng Tao. Prior to that, I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/) in 2021. I received my bachelor's degree of applied physics from Nanjing University of Information Science & Technology in 2016.
 
 ## Research Interests
 
@@ -22,21 +22,21 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Towards Theoretically Inspired Neural Initialization Optimization**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Yibo Yang**, Hong Wang, Haobo Yuan, Zhouchen Lin
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Advances in Neural Information Processing Systems, **NeurIPS 2022**
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF]] [[Code]] <!--<strong><i style="color:#e74d3c">Oral Presentation</i></strong>-->
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Do We Really Need a Learnable Classifier at the End of Deep Neural Network?**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Yibo Yang**, Shixiang Chen, Xiangtai Li, Liang Xie, Zhouchen Lin, Dacheng Tao,
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  Advances in Neural Information Processing Systems, **NeurIPS 2022**
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://arxiv.org/pdf/2203.09081)] [[Code]]
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
