@@ -14,7 +14,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## News
 
-- **[2022.09]** Two papers (first-author) are accepted by NeurIPS 2022.
+- **[2022.09]** Two (first-author) papers are accepted by NeurIPS 2022.
 - **[2022.09]** One paper is accepted by TPAMI.
 - **[2022.06]** Four papers are accepted by ECCV 2022.
 - **[2022.03]** One paper is accepted by CVPR 2022.
