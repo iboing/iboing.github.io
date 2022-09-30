@@ -154,7 +154,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2018**, <font color=red>Oral Presentation (2.1%)</font>
   <br>
   [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Convolutional_Neural_Networks_CVPR_2018_paper.pdf)] [[Code](https://github.com/iboing/CliqueNet)]
-  <p><font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font></p>
+  <font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
 
 ## Honors and Awards
 <br>**[Honors]**
@@ -173,12 +173,12 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - [2014] Second Prize in Jiangsu Provincial Advanced Mathematics Contest
 
 ## Services
-<br>**Reviewer to Journals**
+<br>**[Reviewer to Journals]**
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
 - International Journal of Computer Vision (IJCV);
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
 - IEEE Transactions on Image Processing (TIP);
-<br>**Reviewer to Conferences**
+<br>**[Reviewer to Conferences]**
 - Advances in Neural Information Processing Systems (NeurIPS), 2022/2021/2020/2019;
 - International Conference on Machine Learning (ICML), 2022/2021/2020;
 - International Conference on Learning Representations (ICLR), 2023/2022/2021;
