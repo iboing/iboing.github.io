@@ -22,6 +22,8 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## Publications
 
+(*: equal contributions; $$^{\textrm{\Letter}}$$ corresponding author)
+
 - **Towards Theoretically Inspired Neural Initialization Optimization**
   <br>
   **Yibo Yang**, Hong Wang, Haobo Yuan, Zhouchen Lin
