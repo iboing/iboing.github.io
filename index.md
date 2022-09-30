@@ -6,14 +6,12 @@ layout: homepage
 
 Currently, I am a Research Scientist in JD Explore Academy working with Prof. Dacheng Tao. Prior to that, I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/) in 2021. I received my bachelor's degree of applied physics from Nanjing University of Information Science & Technology in 2016.
 
-<br>
 ## Research Interests
 
 - **Reliable Machine Learning**
 - **Interpretable Neural Architecture**
 - **Unified Computer Vision**
 
-<br>
 ## News
 
 - **[2022.09]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Two (first-author) papers are accepted by NeurIPS 2022.
@@ -22,7 +20,6 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - **[2022.03]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by CVPR 2022.
 - **[2022.02]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
 
-<br>
 ## Publications
 
 (*: equal contributions; #: corresponding author)
@@ -116,8 +113,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
  AAAI Conference on Artificial Intelligence, **AAAI 2020**.
  <br>
  [[PDF](https://arxiv.org/pdf/1911.07527)] [[Code](https://github.com/LaoYang1994/SOGNet)]
- <br>
- <p><font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019)</font></p>
+ <br><p><font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019)</font></p>
 
 - **Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families**
  <br>
@@ -160,9 +156,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Convolutional_Neural_Networks_CVPR_2018_paper.pdf)] [[Code](https://github.com/iboing/CliqueNet)]
   <p><font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font></p>
 
-<br>
 ## Honors and Awards
-
 **[Honors]**
 - [2021] Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Artificial Intelligence)
 - [2021] Outstanding Graduates in Beijing
@@ -170,7 +164,6 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - [2020] Presidential Fellowship in Peking University
 - [2019] Outstanding Academic Award in Peking University
 - [2014] Provincial Merit Student in Jiangsu Province
-
 **[Awards]**
 - [2021] First Place Winner of Segmenting and Tracking Every Point and Pixel in ICCV 2021
 - [2019] Most Innovative Award of Panoptic Segmentation in COCO 2019 Challenge in ICCV 2019
@@ -179,15 +172,12 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - [2015] Finalist Award in American Interdisciplinary Contest in Modeling
 - [2014] Second Prize in Jiangsu Provincial Advanced Mathematics Contest
 
-<br>
 ## Services
-
 **Reviewer to Journals**
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
 - International Journal of Computer Vision (IJCV);
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
 - IEEE Transactions on Image Processing (TIP);
-
 **Reviewer to Conferences**
 - Advances in Neural Information Processing Systems (NeurIPS), 2022/2021/2020/2019;
 - International Conference on Machine Learning (ICML), 2022/2021/2020;
