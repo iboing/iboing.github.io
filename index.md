@@ -116,7 +116,6 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
  <br>
  <font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019, team:
 PKU_ZERO)</font>
- <br>
 
 ## Services
 
