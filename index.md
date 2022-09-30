@@ -114,8 +114,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
  <br>
  [[PDF](https://arxiv.org/pdf/1911.07527)] [[Code](https://github.com/LaoYang1994/SOGNet)]
  <br>
- <p><font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019, team:
-PKU_ZERO)</font></p>
+ <p><font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019, team: PKU_ZERO)</font></p>
 
 - **Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families**
  <br>
@@ -145,11 +144,9 @@ PKU_ZERO)</font></p>
   <br>
   Huan Li\*, **Yibo Yang\***, Dongmin Chen, Zhouchen Lin
   <br>
-  Asian Conference on Machine Learning, **ACML 2018**
+  Asian Conference on Machine Learning, **ACML 2018**, <font color=red>Oral Presentation</font>
   <br>
   [[PDF](https://arxiv.org/pdf/1810.01638)]
-  <br>
-  <font color=red>Oral Presentation</font>
 
 - **Convolutional Neural Networks with Alternately Updated Clique**
   <br>
