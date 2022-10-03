@@ -24,6 +24,8 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 (*: equal contributions; #: corresponding author)
 
+[Conference]
+
 - **Towards Theoretically Inspired Neural Initialization Optimization**
   <br>
   **Yibo Yang**, Hong Wang, Haobo Yuan, Zhouchen Lin
@@ -155,6 +157,31 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Convolutional_Neural_Networks_CVPR_2018_paper.pdf)] [[Code](https://github.com/iboing/CliqueNet)]
   <br><font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
+
+[Journal]
+
+- **Improving Video Instance Segmentation via Temporal Pyramid Routing**
+  <br>
+  Xiangtai Li, Hao He, **Yibo Yang**, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao
+  <br>
+  IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE (TPAMI), (WOS Q1, IF: 24.31)
+  <br>
+  [[PDF](https://arxiv.org/pdf/2107.13155)] [[Code](https://github.com/lxtGH/TemporalPyramidRouting)]
+
+- **Newton Design: Designing CNNs with the Family of Newton's Methods**
+  <br>
+  Zhengyang Shen, **Yibo Yang**, Qi She, Jiwen Ma, Zhouchen Lin
+  <br>
+  SCIENCE CHINA Informatino Science, (WOS Q1, IF: 7.27)  
+
+- **Optimization-Inspired Manual Architecture Design and Neural Architecture Search**
+  <br>
+  **Yibo Yang**, Zhengyang Shen, Huan Li, Zhouchen Lin
+  <br>
+  SCIENCE CHINA Informatino Science, (WOS Q1, IF: 7.27)
+  <br>
+  [[PDF](https://zhouchenlin.github.io/Publications/2022-SCIS-Optimization-Inspired.pdf)]
+
 
 ## Honors and Awards
 
