@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Currently, I am a Research Scientist in JD Explore Academy working with Prof. Dacheng Tao. Prior to that, I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/) in 2021. I received my bachelor's degree of applied physics from Nanjing University of Information Science & Technology in 2016.
+Currently, I am a Research Scientist in JD Explore Academy working with Prof. Dacheng Tao. Prior to that, I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/) in 2021.
 
 ## Research Interests
 
@@ -221,3 +221,5 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - International Conference on Computer Vision (ICCV), 2021;
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022/2021;
 - Association for the Advancement of Artificial Intelligence (AAAI), 2022;
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_4lgjlxVXO0iN6g2xPqnMLByACJJSTbsEbqXP6HwniI&cl=ffffff&w=a"></script>
