@@ -24,7 +24,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 (*: equal contributions; #: corresponding author)
 
-**[Conference]**
+[Conference Papers]
 
 - **Towards Theoretically Inspired Neural Initialization Optimization**
   <br>
@@ -158,7 +158,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Convolutional_Neural_Networks_CVPR_2018_paper.pdf)] [[Code](https://github.com/iboing/CliqueNet)]
   <br><font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
 
-**[Journal Papers]**
+[Journal Papers]
 
 - **Improving Video Instance Segmentation via Temporal Pyramid Routing**
   <br>
@@ -185,7 +185,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## Honors and Awards
 
-**[Honors]**
+[Honors]
 
 - [2021] Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Artificial Intelligence)
 - [2021] Outstanding Graduates in Beijing
@@ -194,7 +194,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - [2019] Outstanding Academic Award in Peking University
 - [2014] Provincial Merit Student in Jiangsu Province
 
-**[Awards]**
+[Awards]
 
 - [2021] First Place Winner of Segmenting and Tracking Every Point and Pixel in ICCV 2021
 - [2019] Most Innovative Award of Panoptic Segmentation in COCO 2019 Challenge in ICCV 2019
@@ -205,14 +205,14 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## Services
 
-**[Reviewer to Journals]**
+[Reviewer to Journals]
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
 - International Journal of Computer Vision (IJCV);
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
 - IEEE Transactions on Image Processing (TIP);
 
-**[Reviewer to Conferences]**
+[Reviewer to Conferences]
 
 - Advances in Neural Information Processing Systems (NeurIPS), 2022/2021/2020/2019;
 - International Conference on Machine Learning (ICML), 2022/2021/2020;
