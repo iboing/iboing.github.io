@@ -32,15 +32,15 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Advances in Neural Information Processing Systems, **NeurIPS 2022**
   <br>
-  [PDF] [Code] <!--<strong><i style="color:#e74d3c">Oral Presentation</i></strong>-->
+  [[PDF](https://arxiv.org/pdf/2210.05956)] [[Code](https://github.com/HarborYuan/GradCosine)] <!--<strong><i style="color:#e74d3c">Oral Presentation</i></strong>-->
 
-- **Do We Really Need a Learnable Classifier at the End of Deep Neural Network?**
+- **Inducing Neural Collapse in Imbalanced Learning: Do We Really Need a Learnable Classifier at the End of Deep Neural Network?**
   <br>
   **Yibo Yang**, Shixiang Chen, Xiangtai Li, Liang Xie, Zhouchen Lin, Dacheng Tao,
   <br>
   Advances in Neural Information Processing Systems, **NeurIPS 2022**
   <br>
-  [[PDF](https://arxiv.org/pdf/2203.09081)] [Code]
+  [[PDF](https://arxiv.org/pdf/2203.09081)] [[Code](https://github.com/NeuralCollapseApplications/ImbalancedLearning)]
 
 - **Eliminating Gradient Conflict in Reference-based Line-art Colorization**
   <br>
