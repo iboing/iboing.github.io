@@ -14,8 +14,8 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## News
 
-- **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Research Positions!
-- **[2022.11]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by TPAMI.
+- **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Research/Academic Positions!
+- **[2022.11]**  <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by TPAMI.
 - **[2022.09]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Two (first-author) papers are accepted by NeurIPS 2022.
 - **[2022.09]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by TPAMI.
 - **[2022.06]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Four papers are accepted by ECCV 2022.
