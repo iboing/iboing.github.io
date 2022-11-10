@@ -14,6 +14,8 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## News
 
+- **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Research Positions!
+- **[2022.11]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by TPAMI.
 - **[2022.09]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Two (first-author) papers are accepted by NeurIPS 2022.
 - **[2022.09]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by TPAMI.
 - **[2022.06]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Four papers are accepted by ECCV 2022.
@@ -159,6 +161,14 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br><font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
 
 [Journal Papers]
+
+- **TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers**
+  <br>
+  Qianyu Zhou, Xiangtai Li, Lu He, **Yibo Yang**, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao
+  <br>
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), (WOS Q1, IF: 24.31)
+  <br>
+  [[PDF](https://arxiv.org/pdf/2201.05047.pdf)] [Code]
 
 - **Improving Video Instance Segmentation via Temporal Pyramid Routing**
   <br>
