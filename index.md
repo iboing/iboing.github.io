@@ -30,7 +30,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 - **DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction**
   <br>
-  Yangyang Xum **Yibo Yang**, Lefei Zhang
+  Yangyang Xu, **Yibo Yang**, Lefei Zhang
   <br>
   AAAI Conference on Artificial Intelligence, **AAAI 2023**
   <br>
