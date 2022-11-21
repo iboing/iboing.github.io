@@ -30,6 +30,14 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 - **Towards Theoretically Inspired Neural Initialization Optimization**
   <br>
+  Yangyang Xum **Yibo Yang**, Lefei Zhang
+  <br>
+  AAAI Conference on Artificial Intelligence, **AAAI 2023**
+  <br>
+  [PDF] [Code]
+
+- **Towards Theoretically Inspired Neural Initialization Optimization**
+  <br>
   **Yibo Yang**, Hong Wang, Haobo Yuan, Zhouchen Lin
   <br>
   Advances in Neural Information Processing Systems, **NeurIPS 2022**
@@ -48,7 +56,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Zekun Li, Zhengyang Geng, Zhao Kang, Wenyu Chen, **Yibo Yang**
   <br>
-  European Conference on Computer Vision, **ECCV 2022**.
+  European Conference on Computer Vision, **ECCV 2022**
   <br>
   [[PDF](http://arxiv.org/abs/2207.06095)] [[Code](https://github.com/kunkun0w0/SGA)]
 
@@ -56,7 +64,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Conghao Wong, Beihao Xia, Ziming Hong, Qinmu Peng, Wei Yuan, Qiong Cao, **Yibo Yang**, Xinge You
   <br>
-  European Conference on Computer Vision, **ECCV 2022**.
+  European Conference on Computer Vision, **ECCV 2022**
   <br>
   [[PDF](https://arxiv.org/pdf/2110.07288.pdf)] [[Code](https://github.com/cocoon2wong/Vertical)]
 
@@ -64,7 +72,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Xiangtai Li, Shilin Xu, **Yibo Yang**, Guangliang Cheng, Yunhai Tong, Dacheng Tao
   <br>
-  European Conference on Computer Vision, **ECCV 2022**.
+  European Conference on Computer Vision, **ECCV 2022**
   <br>
   [[PDF](https://arxiv.org/pdf/2204.04655.pdf)] [[Code](https://github.com/lxtGH/Panoptic-PartFormer)]
 
@@ -72,7 +80,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Haobo Yuan, Xiangtai Li, **Yibo Yang#**, Giangliang Cheng, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao
   <br>
-  European Conference on Computer Vision, **ECCV 2022**.
+  European Conference on Computer Vision, **ECCV 2022**
   <br>
   [[PDF](https://arxiv.org/pdf/2112.02582)] [[Code](https://github.com/HarborYuan/PolyphonicFormer)]
   <br>
@@ -82,7 +90,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Ruibin Wang, **Yibo Yang#**, Dacheng Tao
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2022**.
+  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2022**
   <br>
   [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ARTPoint_Improving_Rotation_Robustness_of_Point_Cloud_Classifiers_via_Adversarial_CVPR_2022_paper.pdf)] [[Code](https://github.com/robinwang1/ART-Point)]
 
@@ -114,7 +122,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
  <br>
  **Yibo Yang**, Hongyang Li, Xia Li, Qijie Zhao, Jianlong Wu, Zhouchen Lin
  <br>
- AAAI Conference on Artificial Intelligence, **AAAI 2020**.
+ AAAI Conference on Artificial Intelligence, **AAAI 2020**
  <br>
  [[PDF](https://arxiv.org/pdf/1911.07527)] [[Code](https://github.com/LaoYang1994/SOGNet)]
  <br><font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019)</font>
