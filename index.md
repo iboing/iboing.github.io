@@ -28,7 +28,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 [Conference Papers]
 
-- **Towards Theoretically Inspired Neural Initialization Optimization**
+- **DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction**
   <br>
   Yangyang Xum **Yibo Yang**, Lefei Zhang
   <br>
