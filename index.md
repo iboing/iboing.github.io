@@ -33,7 +33,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Yuxuan Du, **Yibo Yang**, Dacheng Tao,  Min-Hsiu Hsieh
   <br>
-  [arXiv:2301.01597](https://arxiv.org/pdf/2301.01597)
+  [[arXiv:2301.01597](https://arxiv.org/pdf/2301.01597)]
   <br>
   Intro: *Inspired by neural collapse, we find out some provable advantages and limitations of the quantum neural network over the classical one.*
 
@@ -41,7 +41,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Zhisheng Zhong\*, Jiequan Cui\*, **Yibo Yang\***, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia
   <br>
-  [arXiv:2301.01100](https://arxiv.org/pdf/2301.01100)
+  [[arXiv:2301.01100](https://arxiv.org/pdf/2301.01100)]
   <br>
   Intro: *Inspired by neural collapse, we propose a method that successfully improves the performance of both 2D and 3D semantic segmentation.*
 
@@ -49,7 +49,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Xiangtai Li, Shilin Xu, **Yibo Yang#**, Haobo Yuan, Guangliang Cheng, Yunhai Tong, Zhouchen Lin, Dacheng Tao
   <br>
-  [arXiv:2301.00954](https://arxiv.org/pdf/2301.00954)
+  [[arXiv:2301.00954](https://arxiv.org/pdf/2301.00954)]
   <br>
   Intro: *An extended work of our ECCV'22 paper PanopticPartFormer.*
 
@@ -241,7 +241,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 [Awards]
 
-- [2021] First Place Winner of Segmenting and Tracking Every Point and Pixel (BMTT challenge) in ICCV 2021
+- [2021] First Place Winner of Video+Depth track in Segmenting and Tracking Every Point and Pixel (BMTT 2021 challenge) in ICCV 2021
 - [2019] Most Innovative Award of Panoptic Segmentation in COCO 2019 Challenge in ICCV 2019
 - [2018] Runner-up Winner of Panoptic Segmentation in COCO 2018 Challenge in ECCV 2018
 - [2018] Second Place Winner of Most Popular Poster Award in VALSE 2018 (top2 in 145)
