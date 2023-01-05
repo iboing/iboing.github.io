@@ -22,9 +22,35 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - **[2022.03]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by CVPR 2022.
 - **[2022.02]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
 
-## Publications
+## Selected Publications
 
 (*: equal contributions; #: corresponding author)
+
+[Pre-prints]
+
+- **Demystify Problem-Dependent Power of Quantum Neural Networks on Multi-Class Classification**
+  <br>
+  Yuxuan Du, **Yibo Yang**, Dacheng Tao,  Min-Hsiu Hsieh
+  <br>
+  [arXiv:2301.01597](https://arxiv.org/pdf/2301.01597)
+  <br>
+  Intro: *Inspired by neural collapse, we find out some provable advantages and limitations of the quantum neural network over the classical one.*
+
+- **Understanding Imbalanced Semantic Segmentation Through Neural Collapse**
+  <br>
+  Zhisheng Zhong\*, Jiequan Cui\*, **Yibo Yang\***, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia
+  <br>
+  [arXiv:2301.01100](https://arxiv.org/pdf/2301.01100)
+  <br>
+  Intro: *Inspired by neural collapse, we propose a method that successfully improves the performance of both 2D and 3D semantic segmentation.*
+
+ - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
+  <br>
+  Xiangtai Li, Shilin Xu, **Yibo Yang#**, Haobo Yuan, Guangliang Cheng, Yunhai Tong, Zhouchen Lin, Dacheng Tao
+  <br>
+  [arXiv:2301.00954](https://arxiv.org/pdf/2301.00954)
+  <br>
+  Intro: *An extended work of our ECCV'22 paper PanopticPartFormer.*
 
 [Conference Papers]
 
