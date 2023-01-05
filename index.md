@@ -36,7 +36,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   [[arXiv:2301.01597](https://arxiv.org/pdf/2301.01597)]
   <br>
-  Intro: *Inspired by neural collapse, we find out some provable advantages and limitations of the quantum neural network over the classical one.*
+  Intro: Inspired by neural collapse, we find out some provable advantages and limitations of the quantum neural network over the classical one.
 
 - **Understanding Imbalanced Semantic Segmentation Through Neural Collapse**
   <br>
@@ -44,7 +44,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   [[arXiv:2301.01100](https://arxiv.org/pdf/2301.01100)]
   <br>
-  Intro: *Inspired by neural collapse, we propose a method that successfully improves the performance of both 2D and 3D semantic segmentation.*
+  Intro: Inspired by neural collapse, we propose a method that successfully improves the performance of both 2D and 3D semantic segmentation.
 
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
   <br>
@@ -52,7 +52,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   [[arXiv:2301.00954](https://arxiv.org/pdf/2301.00954)]
   <br>
-  Intro: *An extended work of our ECCV'22 paper PanopticPartFormer.*
+  Intro: An extended work of our ECCV'22 paper PanopticPartFormer.
 
 [Conference Papers]
 
