@@ -15,8 +15,8 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 ## News
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
-- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2022/11]** One paper accepted by TPAMI.
-- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
+- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font>**[2022/11]** One paper accepted by TPAMI.
+- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font>**[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
 - <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2022/09]** One paper accepted by TPAMI.
 - <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2022/06]** Four papers accepted by ECCV 2022.
 - <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2022/03]** One paper accepted by CVPR 2022.
@@ -53,6 +53,13 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   [[arXiv:2301.00954](https://arxiv.org/pdf/2301.00954)]
   <br>
   *Intro*: An extended work of our ECCV'22 paper PanopticPartFormer.
+
+ - **Neural Collapse Inspired Attraction-Repulsion-Balanced Loss for Imbalanced Learning**
+  <br>
+  Liang Xie, **Yibo Yang**, Deng Cai, Xiaofei He
+  <br>
+  [[arXiv:2204.08735](https://arxiv.org/pdf/2204.08735)]
+  <br>
 
 [Conference Papers]
 
