@@ -21,6 +21,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - **[2022.06]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Four papers are accepted by ECCV 2022.
 - **[2022.03]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by CVPR 2022.
 - **[2022.02]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
+- **[2021.11]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021. 
 
 ## Selected Publications
 
@@ -240,7 +241,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 [Awards]
 
-- [2021] First Place Winner of Segmenting and Tracking Every Point and Pixel in ICCV 2021
+- [2021] First Place Winner of Segmenting and Tracking Every Point and Pixel (BMTT challenge) in ICCV 2021
 - [2019] Most Innovative Award of Panoptic Segmentation in COCO 2019 Challenge in ICCV 2019
 - [2018] Runner-up Winner of Panoptic Segmentation in COCO 2018 Challenge in ECCV 2018
 - [2018] Second Place Winner of Most Popular Poster Award in VALSE 2018 (top2 in 145)
