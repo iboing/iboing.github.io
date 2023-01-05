@@ -15,13 +15,14 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 ## News
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
-- **[2022.11]**  <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by TPAMI.
-- **[2022.09]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Two (first-author) papers are accepted by NeurIPS 2022.
-- **[2022.09]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by TPAMI.
-- **[2022.06]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Four papers are accepted by ECCV 2022.
-- **[2022.03]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper is accepted by CVPR 2022.
+- **[2022.11]**  <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper accepted by TPAMI.
+- **[2022.09]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Two (first-author) papers accepted by NeurIPS 2022.
+- **[2022.09]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper accepted by TPAMI.
+- **[2022.06]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Four papers accepted by ECCV 2022.
+- **[2022.03]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> One paper accepted by CVPR 2022.
 - **[2022.02]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
 - **[2021.11]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021. 
+- **[2021.07]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> I obtained my Ph.D. degree from Peking University. 
 
 ## Selected Publications
 
