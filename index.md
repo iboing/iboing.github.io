@@ -16,13 +16,13 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/11]** One paper accepted by TPAMI.
-- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font>**[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
-- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2022/09]** One paper accepted by TPAMI.
-- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2022/06]** Four papers accepted by ECCV 2022.
-- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2022/03]** One paper accepted by CVPR 2022.
-- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2022/02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
-- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021. 
-- <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> **[2021/07]** I obtained my Ph.D. degree from Peking University. 
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/09]** One paper accepted by TPAMI.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/06]** Four papers accepted by ECCV 2022.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/03]** One paper accepted by CVPR 2022.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021. 
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2021/07]** I obtained my Ph.D. degree from Peking University. 
 
 ## Selected Publications
 
