@@ -60,6 +60,8 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   [[arXiv:2204.08735](https://arxiv.org/pdf/2204.08735)]
   <br>
+  *Intro*: Inspired by neural collapse, we improve the loss function for imbalanced learning.
+
 
 [Conference Papers]
 
