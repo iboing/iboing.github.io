@@ -208,7 +208,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Neurocomputing,
   <br>
-  [[PDF](https://arxiv.org/pdf/2204.08735)]
+  [[PDF](assets/pdfs/ARB_neurocomputing.pdf)]
   <br>
   *Intro*: Inspired by neural collapse, we improve the loss function for imbalanced learning.
 
