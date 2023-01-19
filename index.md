@@ -15,6 +15,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 ## News
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides]. 
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/11]** One paper accepted by TPAMI.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/09]** One paper accepted by TPAMI.
@@ -54,13 +55,6 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   *Intro*: An extended work of our ECCV'22 paper PanopticPartFormer.
 
- - **Neural Collapse Inspired Attraction-Repulsion-Balanced Loss for Imbalanced Learning**
-  <br>
-  Liang Xie, **Yibo Yang**, Deng Cai, Xiaofei He
-  <br>
-  [[arXiv:2204.08735](https://arxiv.org/pdf/2204.08735)]
-  <br>
-  *Intro*: Inspired by neural collapse, we improve the loss function for imbalanced learning.
 
 
 [Conference Papers]
@@ -206,6 +200,17 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br><font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
 
 [Journal Papers]
+
+
+ - **Neural Collapse Inspired Attraction-Repulsion-Balanced Loss for Imbalanced Learning**
+  <br>
+  Liang Xie, **Yibo Yang**, Deng Cai, Xiaofei He
+  <br>
+  Neurocomputing,
+  <br>
+  [[PDF](https://arxiv.org/pdf/2204.08735)]
+  <br>
+  *Intro*: Inspired by neural collapse, we improve the loss function for imbalanced learning.
 
 - **TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers**
   <br>
