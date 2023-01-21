@@ -60,6 +60,22 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 [Conference Papers]
 
+- **Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based Networks**
+  <br>
+  Lingshen He, Yuxuan Chen, Zhengyang Shen, **Yibo Yang**, Zhouchen Lin
+  <br>
+  International Conference on Learning Representations, **ICLR 2023**
+  <br>
+  [PDF] [Code]
+
+- **Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning**
+  <br>
+  **Yibo Yang**, Haobo Yuan, Xiangtai Li, Zhouchen Lin, Philip Torr, Dacheng Tao
+  <br>
+  International Conference on Learning Representations, **ICLR 2023**
+  <br>
+  [PDF] [Code]
+
 - **DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction**
   <br>
   Yangyang Xu, **Yibo Yang**, Lefei Zhang
