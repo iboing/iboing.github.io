@@ -64,7 +64,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Lingshen He, Yuxuan Chen, Zhengyang Shen, **Yibo Yang**, Zhouchen Lin
   <br>
-  International Conference on Learning Representations, **ICLR 2023**
+  International Conference on Learning Representations, **ICLR 2023**, <font color=red>spotlight</font>
   <br>
   [PDF] [Code]
 
@@ -72,7 +72,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   **Yibo Yang**, Haobo Yuan, Xiangtai Li, Zhouchen Lin, Philip Torr, Dacheng Tao
   <br>
-  International Conference on Learning Representations, **ICLR 2023**
+  International Conference on Learning Representations, **ICLR 2023**, <font color=red>spotlight</font>
   <br>
   [PDF] [Code]
 
