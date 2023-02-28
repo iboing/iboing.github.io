@@ -61,7 +61,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2023**
   <br>
-  [[PDF](https://arxiv.org/pdf/2301.01100)] [Code]
+  [[PDF](https://arxiv.org/pdf/2301.01100)] [[Code](https://github.com/NeuralCollapseApplications/Semantic-Segmentation)]
   <br>
   *Intro*: Inspired by neural collapse, we propose a method that successfully improves the performance of both 2D and 3D semantic segmentation.
 
