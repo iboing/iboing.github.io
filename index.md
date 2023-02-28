@@ -15,9 +15,9 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 ## News
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** One paper accepted by CVPR 2023.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/02]** One paper accepted by CVPR 2023.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** Two papers accepted by ICLR 2023 as spotlights.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides].
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides] (available upon request).
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/11]** One paper accepted by Neurocomputing.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/11]** One paper accepted by TPAMI.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
@@ -57,6 +57,8 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - **Understanding Imbalanced Semantic Segmentation Through Neural Collapse**
   <br>
   Zhisheng Zhong\*, Jiequan Cui\*, **Yibo Yang\***, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2023**
   <br>
   [[PDF](https://arxiv.org/pdf/2301.01100)] [Code]
   <br>
