@@ -15,16 +15,18 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 ## News
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** One paper accepted by CVPR 2023.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** Two papers accepted by ICLR 2023 as spotlights.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides]. 
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides].
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/11]** One paper accepted by Neurocomputing.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/11]** One paper accepted by TPAMI.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/09]** One paper accepted by TPAMI.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/06]** Four papers accepted by ECCV 2022.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/03]** One paper accepted by CVPR 2022.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021. 
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2021/07]** I obtained my Ph.D. degree from Peking University. 
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2021/07]** I obtained my Ph.D. degree from Peking University.
 
 ## Selected Publications
 
@@ -40,14 +42,6 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   *Intro*: Inspired by neural collapse, we find out some provable advantages and limitations of the quantum neural network over the classical one.
 
-- **Understanding Imbalanced Semantic Segmentation Through Neural Collapse**
-  <br>
-  Zhisheng Zhong\*, Jiequan Cui\*, **Yibo Yang\***, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia
-  <br>
-  [[arXiv:2301.01100](https://arxiv.org/pdf/2301.01100)]
-  <br>
-  *Intro*: Inspired by neural collapse, we propose a method that successfully improves the performance of both 2D and 3D semantic segmentation.
-
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
   <br>
   Xiangtai Li, Shilin Xu, **Yibo Yang#**, Haobo Yuan, Guangliang Cheng, Yunhai Tong, Zhouchen Lin, Dacheng Tao
@@ -60,13 +54,21 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 [Conference Papers]
 
+- **Understanding Imbalanced Semantic Segmentation Through Neural Collapse**
+  <br>
+  Zhisheng Zhong\*, Jiequan Cui\*, **Yibo Yang\***, Xiaoyang Wu, Xiaojuan Qi, Xiangyu Zhang, Jiaya Jia
+  <br>
+  [[PDF](https://arxiv.org/pdf/2301.01100)] [Code]
+  <br>
+  *Intro*: Inspired by neural collapse, we propose a method that successfully improves the performance of both 2D and 3D semantic segmentation.
+
 - **Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based Networks**
   <br>
   Lingshen He, Yuxuan Chen, Zhengyang Shen, **Yibo Yang**, Zhouchen Lin
   <br>
   International Conference on Learning Representations, **ICLR 2023**, <font color=red>spotlight</font>
   <br>
-  [PDF] [Code]
+  [[PDF](https://openreview.net/pdf?id=D1Iqfm7WTkk)] [Code]
 
 - **Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning**
   <br>
@@ -74,7 +76,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   International Conference on Learning Representations, **ICLR 2023**, <font color=red>spotlight</font>
   <br>
-  [PDF] [Code]
+  [[PDF](https://openreview.net/pdf?id=y5W8tpojhtJ)] [[Code](https://github.com/NeuralCollapseApplications/FSCIL)]
 
 - **DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction**
   <br>
@@ -82,7 +84,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   AAAI Conference on Artificial Intelligence, **AAAI 2023**
   <br>
-  [PDF] [Code]
+  [[PDF](https://arxiv.org/pdf/2301.03461.pdf)] [[Code](https://github.com/yangyangxu0/DeMT)]
 
 - **Towards Theoretically Inspired Neural Initialization Optimization**
   <br>
@@ -292,11 +294,11 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 [Reviewer to Conferences]
 
 - Advances in Neural Information Processing Systems (NeurIPS), 2022/2021/2020/2019;
-- International Conference on Machine Learning (ICML), 2022/2021/2020;
+- International Conference on Machine Learning (ICML), 2023/2022/2021/2020;
 - International Conference on Learning Representations (ICLR), 2023/2022/2021;
 - European Conference on Computer Vision (ECCV), 2022;
-- International Conference on Computer Vision (ICCV), 2021;
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022/2021;
+- International Conference on Computer Vision (ICCV), 2023/2021;
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023/2022/2021;
 - Association for the Advancement of Artificial Intelligence (AAAI), 2022;
 
 
