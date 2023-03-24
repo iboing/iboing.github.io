@@ -47,7 +47,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
   <br>
-  Xiangtai Li, Shilin Xu, **Yibo Yang#**, Haobo Yuan, Guangliang Cheng, Yunhai Tong, Zhouchen Lin, Dacheng Tao
+  Xiangtai Li, Shilin Xu, **Yibo Yang#**, Haobo Yuan, Guangliang Cheng, Yunhai Tong, Zhouchen Lin, Ming-Hsuan Yang, Dacheng Tao
   <br>
   [[arXiv:2301.00954](https://arxiv.org/pdf/2301.00954)]
   <br>
@@ -240,7 +240,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Qianyu Zhou, Xiangtai Li, Lu He, **Yibo Yang**, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao
   <br>
-  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), (WOS Q1, IF: 24.31)
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), (WOS Q1, CCF-A)
   <br>
   [[PDF](https://arxiv.org/pdf/2201.05047.pdf)] [Code]
 
@@ -248,7 +248,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Xiangtai Li, Hao He, **Yibo Yang**, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao
   <br>
-  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), (WOS Q1, IF: 24.31)
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), (WOS Q1, CCF-A)
   <br>
   [[PDF](https://arxiv.org/pdf/2107.13155)] [[Code](https://github.com/lxtGH/TemporalPyramidRouting)]
 
@@ -256,13 +256,13 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
   <br>
   Zhengyang Shen, **Yibo Yang**, Qi She, Jiwen Ma, Zhouchen Lin
   <br>
-  SCIENCE CHINA Information Sciences, (WOS Q1, IF: 7.27)  
+  SCIENCE CHINA Information Sciences, (WOS Q1, CCF-A)  
 
 - **Optimization-Inspired Manual Architecture Design and Neural Architecture Search**
   <br>
   **Yibo Yang**, Zhengyang Shen, Huan Li, Zhouchen Lin
   <br>
-  SCIENCE CHINA Information Sciences, (WOS Q1, IF: 7.27)
+  SCIENCE CHINA Information Sciences, (WOS Q1, CCF-A)
   <br>
   [[PDF](https://zhouchenlin.github.io/Publications/2022-SCIS-Optimization-Inspired.pdf)]
 
@@ -289,14 +289,19 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 
 ## Services
 
-[Reviewer to Journals]
+[Reviewer for Journals]
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
 - International Journal of Computer Vision (IJCV);
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
 - IEEE Transactions on Image Processing (TIP);
 
-[Reviewer to Conferences]
+[Area Chair / Senior Program Committee for Conferences]
+
+- Advances in Neural Information Processing Systems (NeurIPS), 2023
+- Association for the Advancement of Artificial Intelligence (AAAI), 2022
+
+[Reviewer for Conferences]
 
 - Advances in Neural Information Processing Systems (NeurIPS), 2022/2021/2020/2019;
 - International Conference on Machine Learning (ICML), 2023/2022/2021/2020;
@@ -304,7 +309,7 @@ Currently, I am a Research Scientist in JD Explore Academy working with Prof. Da
 - European Conference on Computer Vision (ECCV), 2022;
 - International Conference on Computer Vision (ICCV), 2023/2021;
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023/2022/2021;
-- Association for the Advancement of Artificial Intelligence (AAAI), 2022;
-
+<!-- - Association for the Advancement of Artificial Intelligence (AAAI), 2022;
+-->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=230&t=tt&d=_4lgjlxVXO0iN6g2xPqnMLByACJJSTbsEbqXP6HwniI&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
