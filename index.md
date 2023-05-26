@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Currently, I am a Research Scientist in JD Explore Academy working with Prof. Dacheng Tao. Prior to that, I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/) in 2021.
+Currently, I am a Research Scientist in King Abdullah University of Science and Technology (KAUST). I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/) in 2021. I have also worked as a Research Scientist in JD Explore Academy. 
 
 ## Research Interests
 
