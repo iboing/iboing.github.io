@@ -9,13 +9,14 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 ## Research Interests
 
 - **Reliable Machine Learning**
-- **Interpretable Neural Architecture**
+- **Interpretable Neural Network**
 - **Unified Computer Vision**
 
 ## News
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** Two papers are accepted by IEEE TCSVT and Computerized Medical Imaging and Graphics, respectively.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/03]** Invited to serve as an Area Chair of NeurIPS 2023.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/02]** One paper accepted by CVPR 2023.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** Two (one first-author) papers accepted by ICLR 2023 as spotlights.
