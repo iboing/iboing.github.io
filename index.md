@@ -16,6 +16,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** One paper accepted by ICCV 2023.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** Two papers accepted by IEEE TCSVT and Computerized Medical Imaging and Graphics, respectively.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/03]** Invited to serve as an Area Chair of NeurIPS 2023.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/02]** One paper accepted by CVPR 2023.
@@ -226,6 +227,23 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Journal Papers]
 
+ - **Deformable medical image registration with global-local transformation network and region similarity constraint**
+  <br>
+  Xinke Ma, Hengfei Cui, Shuoyan Li, Yibo Yang, Yong Xia
+  <br>
+  Computerized Medical Imaging and Graphics,
+  <br>
+  [[PDF](https://www.sciencedirect.com/science/article/pii/S0895611123000812)]
+  <br>
+
+ - **Multi-task learning with multi-query transformer for dense prediction**
+  <br>
+  Yangyang Xu, Xiangtai Li, Haobo Yuan, **Yibo Yang**, Lefei Zhang
+  <br>
+  IEEE Trans. Circuits and Systems for Video Technology,
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10176116)]
+  <br>
 
  - **Neural Collapse Inspired Attraction-Repulsion-Balanced Loss for Imbalanced Learning**
   <br>
