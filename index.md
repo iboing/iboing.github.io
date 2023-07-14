@@ -229,9 +229,9 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
  - **Deformable medical image registration with global-local transformation network and region similarity constraint**
   <br>
-  Xinke Ma, Hengfei Cui, Shuoyan Li, Yibo Yang, Yong Xia
+  Xinke Ma, Hengfei Cui, Shuoyan Li, **Yibo Yang**, Yong Xia
   <br>
-  Computerized Medical Imaging and Graphics,
+  Computerized Medical Imaging and Graphics
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S0895611123000812)]
   <br>
@@ -240,7 +240,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Yangyang Xu, Xiangtai Li, Haobo Yuan, **Yibo Yang**, Lefei Zhang
   <br>
-  IEEE Trans. Circuits and Systems for Video Technology,
+  IEEE Trans. Circuits and Systems for Video Technology
   <br>
   [[PDF](https://ieeexplore.ieee.org/abstract/document/10176116)]
   <br>
@@ -249,7 +249,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Liang Xie, **Yibo Yang**, Deng Cai, Xiaofei He
   <br>
-  Neurocomputing,
+  Neurocomputing
   <br>
   [[PDF](assets/pdfs/ARB_neurocomputing.pdf)]
   <br>
@@ -275,7 +275,9 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Zhengyang Shen, **Yibo Yang**, Qi She, Jiwen Ma, Zhouchen Lin
   <br>
-  SCIENCE CHINA Information Sciences, (WOS Q1, CCF-A)  
+  SCIENCE CHINA Information Sciences, (WOS Q1, CCF-A)
+  <br>
+  [[PDF](https://link.springer.com/article/10.1007/s11432-021-3442-2)]
 
 - **Optimization-Inspired Manual Architecture Design and Neural Architecture Search**
   <br>
