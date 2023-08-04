@@ -16,6 +16,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper accepted by International Journal of Computer Vision.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** One paper accepted by ICCV 2023.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** Two papers accepted by IEEE TCSVT and Computerized Medical Imaging and Graphics, respectively.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/03]** Invited to serve as an Area Chair of NeurIPS 2023.
@@ -38,6 +39,13 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 (*: equal contributions; #: corresponding author)
 
 [Pre-prints]
+
+- **Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants**
+  <br>
+  Yibo Yang, Haobo Yuan, Xiangtai Li, Jianlong Wu, Lefei Zhang, Zhouchen Lin, Philip Torr, Dacheng Tao, Bernard Ghanem
+  <br>
+  [[arXiv:2301.01597](https://arxiv.org/pdf/2308.01746)]
+  <br>
 
 - **Demystify Problem-Dependent Power of Quantum Neural Networks on Multi-Class Classification**
   <br>
@@ -227,6 +235,15 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Journal Papers]
 
+ - **SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow**
+  <br>
+  Xiangtai Li, Jiangning Zhang, **Yibo Yang**, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Dacheng Tao
+  <br>
+  International Journal of Computer Vision
+  <br>
+  [[PDF](https://arxiv.org/pdf/2207.04415)]
+  <br>
+
  - **Deformable medical image registration with global-local transformation network and region similarity constraint**
   <br>
   Xinke Ma, Hengfei Cui, Shuoyan Li, **Yibo Yang**, Yong Xia
@@ -253,13 +270,12 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   [[PDF](assets/pdfs/ARB_neurocomputing.pdf)]
   <br>
-  *Intro*: Inspired by neural collapse, we improve the loss function for imbalanced learning.
 
 - **TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers**
   <br>
   Qianyu Zhou, Xiangtai Li, Lu He, **Yibo Yang**, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao
   <br>
-  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), (WOS Q1, CCF-A)
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
   <br>
   [[PDF](https://arxiv.org/pdf/2201.05047.pdf)] [Code]
 
@@ -267,7 +283,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Xiangtai Li, Hao He, **Yibo Yang**, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao
   <br>
-  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), (WOS Q1, CCF-A)
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
   <br>
   [[PDF](https://arxiv.org/pdf/2107.13155)] [[Code](https://github.com/lxtGH/TemporalPyramidRouting)]
 
