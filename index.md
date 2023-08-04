@@ -42,7 +42,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 - **Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants**
   <br>
-  Yibo Yang, Haobo Yuan, Xiangtai Li, Jianlong Wu, Lefei Zhang, Zhouchen Lin, Philip Torr, Dacheng Tao, Bernard Ghanem
+  **Yibo Yang**, Haobo Yuan, Xiangtai Li, Jianlong Wu, Lefei Zhang, Zhouchen Lin, Philip Torr, Dacheng Tao, Bernard Ghanem
   <br>
   [[arXiv:2301.01597](https://arxiv.org/pdf/2308.01746)]
   <br>
