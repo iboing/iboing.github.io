@@ -16,6 +16,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper accepted by Physical Review Letters (PRL, a flagship journal in physics).
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper accepted by International Journal of Computer Vision.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** One paper accepted by ICCV 2023.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** Two papers accepted by IEEE TCSVT and Computerized Medical Imaging and Graphics, respectively.
@@ -46,14 +47,6 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   [[arXiv:2301.01597](https://arxiv.org/pdf/2308.01746)]
   <br>
-
-- **Demystify Problem-Dependent Power of Quantum Neural Networks on Multi-Class Classification**
-  <br>
-  Yuxuan Du, **Yibo Yang**, Dacheng Tao,  Min-Hsiu Hsieh
-  <br>
-  [[arXiv:2301.01597](https://arxiv.org/pdf/2301.01597)]
-  <br>
-  *Intro*: Inspired by neural collapse, we find out some provable advantages and limitations of the quantum neural network over the classical one.
 
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
   <br>
@@ -235,13 +228,23 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Journal Papers]
 
+- **Demystify Problem-Dependent Power of Quantum Neural Networks on Multi-Class Classification**
+  <br>
+  Yuxuan Du, **Yibo Yang**, Dacheng Tao,  Min-Hsiu Hsieh
+  <br>
+  Physical Review Letters
+  <br>
+  [[PDF](https://arxiv.org/pdf/2301.01597)]
+  <br>
+  *Intro*: Inspired by neural collapse, we find out some provable advantages and limitations of the quantum neural network over the classical one.
+
  - **SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow**
   <br>
   Xiangtai Li, Jiangning Zhang, **Yibo Yang**, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Dacheng Tao
   <br>
   International Journal of Computer Vision
   <br>
-  [[PDF](https://arxiv.org/pdf/2207.04415)]
+  [[PDF](https://arxiv.org/pdf/2207.04415)] [[Code](https://github.com/lxtGH/SFSegNets)]
   <br>
 
  - **Deformable medical image registration with global-local transformation network and region similarity constraint**
@@ -277,7 +280,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
   <br>
-  [[PDF](https://arxiv.org/pdf/2201.05047.pdf)] [Code]
+  [[PDF](https://arxiv.org/pdf/2201.05047.pdf)] [[Code](https://github.com/qianyuzqy/TransVOD_Lite)]
 
 - **Improving Video Instance Segmentation via Temporal Pyramid Routing**
   <br>
