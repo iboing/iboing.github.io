@@ -16,7 +16,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper accepted by Physical Review Letters (PRL, a flagship journal in physics).
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper about AI4Science accepted by Physical Review Letters (PRL, a flagship journal in physics).
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper accepted by International Journal of Computer Vision.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** One paper accepted by ICCV 2023.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** Two papers accepted by IEEE TCSVT and Computerized Medical Imaging and Graphics, respectively.
