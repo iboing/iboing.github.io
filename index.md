@@ -41,11 +41,18 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Pre-prints]
 
+- **ShadowNet for Data-Centric Quantum System Learning**
+  <br>
+  Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
+  <br>
+  [[arXiv:2308.11290](https://arxiv.org/pdf/2308.11290)]
+  <br>
+
 - **Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants**
   <br>
   **Yibo Yang**, Haobo Yuan, Xiangtai Li, Jianlong Wu, Lefei Zhang, Zhouchen Lin, Philip Torr, Dacheng Tao, Bernard Ghanem
   <br>
-  [[arXiv:2301.01597](https://arxiv.org/pdf/2308.01746)]
+  [[arXiv:2308.01746](https://arxiv.org/pdf/2308.01746)]
   <br>
 
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
@@ -59,6 +66,12 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 
 [Conference Papers]
+
+- **Multi-Task Learning with Knowledge Distillation for Dense Prediction**
+  <br>
+  Yangyang Xu, **Yibo Yang**, Lefei Zhang
+  <br>
+  IEEE/CVF International Conference in Computer Vision, **ICCV, 2023**
 
 - **Understanding Imbalanced Semantic Segmentation Through Neural Collapse**
   <br>
