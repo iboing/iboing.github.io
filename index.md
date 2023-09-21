@@ -10,8 +10,9 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 - **Reliable Machine Learning**
 - **Interpretable Neural Network**
-- **Unified Visual Understanding**
 - **AI for Science / Healthcare**
+- **Unified Visual Understanding**
+
 
 ## News
 
