@@ -44,12 +44,21 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Pre-prints]
 
+- **Towards Demystifying the Generalization Behaviors When Neural Collapse Emerges**
+  <br>
+  Gao Peifeng, Qianqian Xu, **Yibo Yang**, Peisong Wen, Huiyang Shao, Zhiyong Yang, Bernard Ghanem, Qingming Huang
+  <br>
+  [[arXiv:2310.08358](https://arxiv.org/pdf/2310.08358.pdf)]
+  <br>
+  *Intro*: We establish a theoretical explanation for generalization improvement during the occurrence of neural collapse.  
+
 - **ShadowNet for Data-Centric Quantum System Learning**
   <br>
   Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
   <br>
   [[arXiv:2308.11290](https://arxiv.org/pdf/2308.11290)]
   <br>
+  *Intro*: We propose a data-centric learning paradigm for physics problems including quantum state tomography and direct fidelity estimation. 
 
 - **Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants**
   <br>
@@ -57,6 +66,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   [[arXiv:2308.01746](https://arxiv.org/pdf/2308.01746)]
   <br>
+  *Intro*: An extended work of our ICLR'23 paper.
 
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
   <br>
@@ -64,7 +74,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   [[arXiv:2301.00954](https://arxiv.org/pdf/2301.00954)]
   <br>
-  *Intro*: An extended work of our ECCV'22 paper PanopticPartFormer.
+  *Intro*: An extended work of our ECCV'22 paper.
 
 
 
