@@ -66,7 +66,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   [[arXiv:2308.01746](https://arxiv.org/pdf/2308.01746)]
   <br>
-  *Intro*: An extended work of our ICLR'23 paper.
+  *Intro*: An extended work of our ICLR'23 paper. Inspired by neural collapse, we propose a unified method for class-incremental learning, long-tail class-incremental learning, and few-shot class-incremental learning. 
 
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
   <br>
