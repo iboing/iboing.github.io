@@ -349,7 +349,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 ## Honors and Awards
 
 
-- [2023] Wuwenjun AI Science & Technology Award in CAAI, First Price of Natural Science, 5-th contributor
+- [2024] Wuwenjun AI Science & Technology Award in CAAI, First Price of Natural Science, 5-th contributor
 - [2021] Wuwenjun Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Artificial Intelligence)
 - [2021] First Place Winner of Video+Depth track in Segmenting and Tracking Every Point and Pixel (BMTT 2021 challenge) in ICCV 2021
 - [2021] Outstanding Graduates in Beijing
