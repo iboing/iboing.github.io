@@ -18,6 +18,8 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper is accepted by TPAMI.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/09]** Invited to serve as an Area Chair of ICLR 2024.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics).
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper accepted by International Journal of Computer Vision.
@@ -256,6 +258,15 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Journal Papers]
 
+- **Towards open vocabulary learning: A survey**
+  <br>
+  Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
+  <br>
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/iel7/34/4359286/10420487.pdf)]
+  <br>
+
 - **Demystify Problem-Dependent Power of Quantum Neural Networks on Multi-Class Classification**
   <br>
   Yuxuan Du, **Yibo Yang**, Dacheng Tao,  Min-Hsiu Hsieh
@@ -337,22 +348,19 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 ## Honors and Awards
 
-[Honors]
 
-- [2021] Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Artificial Intelligence)
+- [2023] Wuwenjun AI Science & Technology Award in CAAI, First Price of Natural Science, 5-th contributor
+- [2021] Wuwenjun Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Artificial Intelligence)
+- [2021] First Place Winner of Video+Depth track in Segmenting and Tracking Every Point and Pixel (BMTT 2021 challenge) in ICCV 2021
 - [2021] Outstanding Graduates in Beijing
 - [2021] Outstanding Graduates in Peking University
 - [2020] Presidential Fellowship in Peking University
 - [2019] Outstanding Academic Award in Peking University
-- [2014] Provincial Merit Student in Jiangsu Province
-
-[Awards]
-
-- [2021] First Place Winner of Video+Depth track in Segmenting and Tracking Every Point and Pixel (BMTT 2021 challenge) in ICCV 2021
 - [2019] Most Innovative Award of Panoptic Segmentation in COCO 2019 Challenge in ICCV 2019
 - [2018] Runner-up Winner of Panoptic Segmentation in COCO 2018 Challenge in ECCV 2018
 - [2018] Second Place Winner of Most Popular Poster Award in VALSE 2018 (top2 in 145)
 - [2015] Finalist Award in American Interdisciplinary Contest in Modeling
+- [2014] Provincial Merit Student in Jiangsu Province
 - [2014] Second Prize in Jiangsu Provincial Advanced Mathematics Contest
 
 ## Services
@@ -373,9 +381,9 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 [Reviewer for Conferences]
 
 - Advances in Neural Information Processing Systems (NeurIPS), 2022/2021/2020/2019;
-- International Conference on Machine Learning (ICML), 2023/2022/2021/2020;
+- International Conference on Machine Learning (ICML), 2024/2023/2022/2021/2020;
 - International Conference on Learning Representations (ICLR), 2023/2022/2021;
-- European Conference on Computer Vision (ECCV), 2022;
+- European Conference on Computer Vision (ECCV), 2024/2022;
 - International Conference on Computer Vision (ICCV), 2023/2021;
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023/2022/2021;
 <!-- - Association for the Advancement of Artificial Intelligence (AAAI), 2022;
