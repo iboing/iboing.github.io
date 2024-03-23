@@ -19,8 +19,8 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper is accepted by TPAMI.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper is accepted by IJCV.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper accepted by TPAMI.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper accepted by IJCV.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/09]** Invited to serve as an Area Chair of ICLR 2024.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics).
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper accepted by International Journal of Computer Vision.
@@ -272,9 +272,9 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Jiangning Zhang, Xiangtai Li, Yabiao Wang, Chengjie Wang, **Yibo Yang**, Yong Liu, Dacheng Tao
   <br>
-  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/iel7/34/4359286/10420487.pdf)]
+  International Journal of Computer Vision (IJCV)
+   <br>
+  [[PDF](https://arxiv.org/pdf/2206.09325)]
   <br>
 
 - **Demystify Problem-Dependent Power of Quantum Neural Networks on Multi-Class Classification**
