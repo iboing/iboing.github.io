@@ -18,8 +18,9 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper is accepted by TPAMI.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper is accepted by IJCV.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/09]** Invited to serve as an Area Chair of ICLR 2024.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics).
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper accepted by International Journal of Computer Vision.
@@ -36,7 +37,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/09]** One paper accepted by IEEE TPAMI.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/06]** Four papers accepted by ECCV 2022.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/03]** One paper accepted by CVPR 2022.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award in CAAI.
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award from CAAI.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2021/07]** I obtained my Ph.D. degree from Peking University.
 
@@ -260,7 +261,16 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 - **Towards open vocabulary learning: A survey**
   <br>
-  Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
+  Jianzong Wu, Xiangtai Li, Shilin Xu, Haobo Yuan, Henghui Ding, **Yibo Yang**, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
+  <br>
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/iel7/34/4359286/10420487.pdf)]
+  <br>
+
+- **EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm**
+  <br>
+  Jiangning Zhang, Xiangtai Li, Yabiao Wang, Chengjie Wang, **Yibo Yang**, Yong Liu, Dacheng Tao
   <br>
   IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
   <br>
@@ -374,6 +384,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Area Chair / Senior Program Committee for Conferences]
 
+- International Conference on Artificial Neural Networks (ICANN), 2024
 - International Conference on Learning Representations (ICLR), 2024
 - Advances in Neural Information Processing Systems (NeurIPS), 2023
 - Association for the Advancement of Artificial Intelligence (AAAI), 2022
@@ -385,7 +396,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 - International Conference on Learning Representations (ICLR), 2023/2022/2021;
 - European Conference on Computer Vision (ECCV), 2024/2022;
 - International Conference on Computer Vision (ICCV), 2023/2021;
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023/2022/2021;
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024/2023/2022/2021;
 <!-- - Association for the Advancement of Artificial Intelligence (AAAI), 2022;
 -->
 
