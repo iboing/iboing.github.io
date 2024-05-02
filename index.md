@@ -19,7 +19,6 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
-<div style="height:500px;width:650px;overflow:auto;">
 - **[2024/05]** One first-author paper accepted by ICML 2024.
 - **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
 - **[2024/01]** One paper accepted by TPAMI.
@@ -43,7 +42,6 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 - **[2022/02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award from CAAI.
 - **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021.
 - **[2021/07]** I obtained my Ph.D. degree from Peking University.
-</div>
 
 ## Selected Publications
 
