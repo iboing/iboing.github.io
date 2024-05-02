@@ -18,6 +18,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
+- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/05]** One first-author paper accepted by ICML 2024.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper accepted by TPAMI.
 - <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper accepted by IJCV.
@@ -47,14 +48,6 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Pre-prints]
 
-- **Towards Demystifying the Generalization Behaviors When Neural Collapse Emerges**
-  <br>
-  Gao Peifeng, Qianqian Xu, **Yibo Yang**, Peisong Wen, Huiyang Shao, Zhiyong Yang, Bernard Ghanem, Qingming Huang
-  <br>
-  [[arXiv:2310.08358](https://arxiv.org/pdf/2310.08358.pdf)]
-  <br>
-  *Intro*: We establish a theoretical explanation for generalization improvement during the occurrence of neural collapse.  
-
 - **ShadowNet for Data-Centric Quantum System Learning**
   <br>
   Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
@@ -82,6 +75,13 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 
 [Conference Papers]
+
+- **Towards Interpretable Deep Local Learning with Successive Gradient Reconciliation**
+  <br>
+  **Yibo Yang**, Xiaojie Li, Motasem Alfarra, Hasan Hammoud, Adel Bibi, Philip Torr, Bernard Ghanem
+  <br>
+  International Conference on Machine Learning, **ICML, 2024**
+  <br>
 
 - **Multi-Task Learning with Knowledge Distillation for Dense Prediction**
   <br>
