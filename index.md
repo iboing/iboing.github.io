@@ -107,7 +107,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Lingshen He, Yuxuan Chen, Zhengyang Shen, **Yibo Yang**, Zhouchen Lin
   <br>
-  International Conference on Learning Representations, **ICLR 2023**, <font color=red>spotlight</font>
+  International Conference on Learning Representations, **ICLR 2023**, <font color=#d76666>spotlight</font>
   <br>
   [[PDF](https://openreview.net/pdf?id=D1Iqfm7WTkk)] [Code]
 
@@ -115,7 +115,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   **Yibo Yang**, Haobo Yuan, Xiangtai Li, Zhouchen Lin, Philip Torr, Dacheng Tao
   <br>
-  International Conference on Learning Representations, **ICLR 2023**, <font color=red>spotlight</font>
+  International Conference on Learning Representations, **ICLR 2023**, <font color=#d76666>spotlight</font>
   <br>
   [[PDF](https://openreview.net/pdf?id=y5W8tpojhtJ)] [[Code](https://github.com/NeuralCollapseApplications/FSCIL)]
 
@@ -175,7 +175,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   [[PDF](https://arxiv.org/pdf/2112.02582)] [[Code](https://github.com/HarborYuan/PolyphonicFormer)]
   <br>
-  <p><font color=red>(The method in this paper also won the first place in Segmenting and Tracking Every Point and Pixel challenge in ICCV 2021)</font></p>
+  <p><font color=#d76666>(The method in this paper also won the first place in Segmenting and Tracking Every Point and Pixel challenge in ICCV 2021)</font></p>
 
 - **ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation**
   <br>
@@ -216,7 +216,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
  AAAI Conference on Artificial Intelligence, **AAAI 2020**
  <br>
  [[PDF](https://arxiv.org/pdf/1911.07527)] [[Code](https://github.com/LaoYang1994/SOGNet)]
- <br><font color=red>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019)</font>
+ <br><font color=#d76666>(The method in this paper also won the Most Innovative Award in COCO 2019 challenge in ICCV 2019)</font>
 
 - **Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families**
  <br>
@@ -230,7 +230,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Xia Li, Zhisheng Zhong, Jianlong Wu, **Yibo Yang**, Zhouchen Lin, Hong Liu
   <br>
-  IEEE/CVF International Conference in Computer Vision, **ICCV, 2019**, <font color=red>Oral Presentation (4.3%)</font>
+  IEEE/CVF International Conference in Computer Vision, **ICCV, 2019**, <font color=#d76666>Oral Presentation (4.3%)</font>
   <br>
   [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Expectation-Maximization_Attention_Networks_for_Semantic_Segmentation_ICCV_2019_paper.pdf)] [[Code](https://github.com/XiaLiPKU/EMANet)]  
 
@@ -246,7 +246,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Huan Li\*, **Yibo Yang\***, Dongmin Chen, Zhouchen Lin
   <br>
-  Asian Conference on Machine Learning, **ACML 2018**, <font color=red>Oral Presentation</font>
+  Asian Conference on Machine Learning, **ACML 2018**, <font color=#d76666>Oral Presentation</font>
   <br>
   [[PDF](https://arxiv.org/pdf/1810.01638)]
 
@@ -254,10 +254,10 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   **Yibo Yang**, Zhisheng Zhong, Tiancheng Shen, Zhouchen Lin
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2018**, <font color=red>Oral Presentation (2.1%)</font>
+  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2018**, <font color=#d76666>Oral Presentation (2.1%)</font>
   <br>
   [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Convolutional_Neural_Networks_CVPR_2018_paper.pdf)] [[Code](https://github.com/iboing/CliqueNet)]
-  <br><font color=red>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
+  <br><font color=#d76666>(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
 
 [Journal Papers]
 
