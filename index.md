@@ -18,29 +18,31 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/05]** One first-author paper accepted by ICML 2024.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper accepted by TPAMI.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2024/01]** One paper accepted by IJCV.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/09]** Invited to serve as an Area Chair of ICLR 2024.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics).
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/08]** One paper accepted by International Journal of Computer Vision.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** One paper accepted by ICCV 2023.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/07]** Two papers accepted by IEEE TCSVT and Computerized Medical Imaging and Graphics, respectively.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/03]** Invited to serve as an Area Chair of NeurIPS 2023.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/02]** One paper accepted by CVPR 2023.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** Two (one first-author) papers accepted by ICLR 2023 as spotlights.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides] (available upon request).
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2023/01]** One paper accepted by Neurocomputing.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/11]** One paper accepted by AAAI 2023.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/11]** One paper accepted by IEEE TPAMI.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/09]** One paper accepted by IEEE TPAMI.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/06]** Four papers accepted by ECCV 2022.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/03]** One paper accepted by CVPR 2022.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2022/02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award from CAAI.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021.
-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i> **[2021/07]** I obtained my Ph.D. degree from Peking University.
+<!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
+
+- **[2024/05]** One first-author paper accepted by ICML 2024.
+- **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
+- **[2024/01]** One paper accepted by TPAMI.
+- **[2024/01]** One paper accepted by IJCV.
+- **[2023/09]** Invited to serve as an Area Chair of ICLR 2024.
+- **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics).
+- **[2023/08]** One paper accepted by International Journal of Computer Vision.
+- **[2023/07]** One paper accepted by ICCV 2023.
+- **[2023/07]** Two papers accepted by IEEE TCSVT and Computerized Medical Imaging and Graphics, respectively.
+- **[2023/03]** Invited to serve as an Area Chair of NeurIPS 2023.
+- **[2023/02]** One paper accepted by CVPR 2023.
+- **[2023/01]** Two (one first-author) papers accepted by ICLR 2023 as spotlights.
+- **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides] (available upon request).
+- **[2023/01]** One paper accepted by Neurocomputing.
+- **[2022/11]** One paper accepted by AAAI 2023.
+- **[2022/11]** One paper accepted by IEEE TPAMI.
+- **[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
+- **[2022/09]** One paper accepted by IEEE TPAMI.
+- **[2022/06]** Four papers accepted by ECCV 2022.
+- **[2022/03]** One paper accepted by CVPR 2022.
+- **[2022/02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award from CAAI.
+- **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021.
+- **[2021/07]** I obtained my Ph.D. degree from Peking University.
 
 ## Selected Publications
 
