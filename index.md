@@ -26,7 +26,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 - **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics).
 - **[2023/08]** One paper accepted by IJCV.
 - **[2023/07]** One paper accepted by ICCV 2023.
-- **[2023/07]** Two papers accepted by IEEE TCSVT and Computerized Medical Imaging and Graphics, respectively.
+- **[2023/07]** Two papers accepted by IEEE TCSVT and CMIG, respectively.
 - **[2023/03]** Invited to serve as an Area Chair of NeurIPS 2023.
 - **[2023/02]** One paper accepted by CVPR 2023.
 - **[2023/01]** Two (one first-author) papers accepted by ICLR 2023 as spotlights.
