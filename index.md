@@ -21,11 +21,10 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 - **[2024/05]** One first-author paper accepted by ICML 2024.
 - **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
-- **[2024/01]** One paper accepted by TPAMI.
-- **[2024/01]** One paper accepted by IJCV.
+- **[2024/01]** Two papers accepted by IEEE TPAMI and IJCV, respectively.
 - **[2023/09]** Invited to serve as an Area Chair of ICLR 2024.
 - **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics).
-- **[2023/08]** One paper accepted by International Journal of Computer Vision.
+- **[2023/08]** One paper accepted by IJCV.
 - **[2023/07]** One paper accepted by ICCV 2023.
 - **[2023/07]** Two papers accepted by IEEE TCSVT and Computerized Medical Imaging and Graphics, respectively.
 - **[2023/03]** Invited to serve as an Area Chair of NeurIPS 2023.
@@ -33,14 +32,13 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 - **[2023/01]** Two (one first-author) papers accepted by ICLR 2023 as spotlights.
 - **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides] (available upon request).
 - **[2023/01]** One paper accepted by Neurocomputing.
-- **[2022/11]** One paper accepted by AAAI 2023.
-- **[2022/11]** One paper accepted by IEEE TPAMI.
+- **[2022/11]** One paper accepted by IEEE TPAMI. One paper accepted by AAAI 2023.
 - **[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
 - **[2022/09]** One paper accepted by IEEE TPAMI.
 - **[2022/06]** Four papers accepted by ECCV 2022.
 - **[2022/03]** One paper accepted by CVPR 2022.
 - **[2022/02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award from CAAI.
-- **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge in ICCV 2021.
+- **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge.
 - **[2021/07]** I obtained my Ph.D. degree from Peking University.
 
 ## Selected Publications
@@ -385,9 +383,9 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Area Chair / Senior Program Committee for Conferences]
 
-- International Conference on Artificial Neural Networks (ICANN), 2024
+- Advances in Neural Information Processing Systems (NeurIPS), 2024/2023
 - International Conference on Learning Representations (ICLR), 2024
-- Advances in Neural Information Processing Systems (NeurIPS), 2023
+- International Conference on Artificial Neural Networks (ICANN), 2024
 - Association for the Advancement of Artificial Intelligence (AAAI), 2022
 
 [Reviewer for Conferences]
