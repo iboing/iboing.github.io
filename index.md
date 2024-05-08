@@ -20,14 +20,15 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
 - **[2024/05]** One first-author paper accepted by ICML 2024.
+- **[2024/05]** Invited to serve as Area Chair of NeurIPS 2024.
 - **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
 - **[2024/01]** Two papers accepted by IEEE TPAMI and IJCV, respectively.
-- **[2023/09]** Invited to serve as an Area Chair of ICLR 2024.
+- **[2023/09]** Invited to serve as Area Chair of ICLR 2024.
 - **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics).
 - **[2023/08]** One paper accepted by IJCV.
 - **[2023/07]** One paper accepted by ICCV 2023.
 - **[2023/07]** Two papers accepted by IEEE TCSVT and CMIG, respectively.
-- **[2023/03]** Invited to serve as an Area Chair of NeurIPS 2023.
+- **[2023/03]** Invited to serve as Area Chair of NeurIPS 2023.
 - **[2023/02]** One paper accepted by CVPR 2023.
 - **[2023/01]** Two (one first-author) papers accepted by ICLR 2023 as spotlights.
 - **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides] (available upon request).
