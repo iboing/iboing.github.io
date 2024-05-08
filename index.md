@@ -31,7 +31,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 - **[2023/03]** Invited to serve as Area Chair of NeurIPS 2023.
 - **[2023/02]** One paper accepted by CVPR 2023.
 - **[2023/01]** Two (one first-author) papers accepted by ICLR 2023 as spotlights.
-- **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series. <!--, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides] (available upon request).
+- **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series. <!--, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides] (available upon request). -->
 - **[2023/01]** One paper accepted by Neurocomputing.
 - **[2022/11]** One paper accepted by IEEE TPAMI. One paper accepted by AAAI 2023.
 - **[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
