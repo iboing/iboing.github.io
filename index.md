@@ -48,6 +48,14 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Pre-prints]
 
+- **CorDA: Context-Oriented Decomposition Adaptation of Large Language Models**
+  <br>
+  **Yibo Yang**, Xiaojie Li, Zhongzhu Zhou, Shuaiwen Leon Song, Jianlong Wu, Liqiang Nie, Bernard Ghanem
+  <br>
+  [[arXiv:2406.05223](https://arxiv.org/pdf/2406.05223)] [[Code](https://github.com/iboing/CorDA)]
+  <br>
+  *Intro*: We propose a new PEFT method with not only better performance on finetuning task, but also less forgetting of pre-trained world knowledge. 
+
 - **ShadowNet for Data-Centric Quantum System Learning**
   <br>
   Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
@@ -82,6 +90,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   International Conference on Machine Learning, **ICML, 2024**
   <br>
+  [[PDF](https://arxiv.org/pdf/2406.05222)]
 
 - **Multi-Task Learning with Knowledge Distillation for Dense Prediction**
   <br>
