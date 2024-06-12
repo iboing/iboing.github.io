@@ -52,31 +52,31 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   **Yibo Yang**, Xiaojie Li, Zhongzhu Zhou, Shuaiwen Leon Song, Jianlong Wu, Liqiang Nie, Bernard Ghanem
   <br>
-  [[arXiv:2406.05223](https://arxiv.org/pdf/2406.05223)] [[Code](https://github.com/iboing/CorDA)]
+  [[PDF](https://arxiv.org/pdf/2406.05223)] [[Code](https://github.com/iboing/CorDA)]
   <br>
   *Intro*: We propose a new PEFT method with not only better performance on finetuning task, but also less forgetting of pre-trained world knowledge. 
-
-- **ShadowNet for Data-Centric Quantum System Learning**
-  <br>
-  Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
-  <br>
-  [[arXiv:2308.11290](https://arxiv.org/pdf/2308.11290)]
-  <br>
-  *Intro*: We propose a data-centric learning paradigm for physics problems including quantum state tomography and direct fidelity estimation. 
 
 - **Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants**
   <br>
   **Yibo Yang**, Haobo Yuan, Xiangtai Li, Jianlong Wu, Lefei Zhang, Zhouchen Lin, Philip Torr, Dacheng Tao, Bernard Ghanem
   <br>
-  [[arXiv:2308.01746](https://arxiv.org/pdf/2308.01746)]
+  [[PDF](https://arxiv.org/pdf/2308.01746)] [[Code](https://github.com/NeuralCollapseApplications/UniCIL)]
   <br>
   *Intro*: An extended work of our ICLR'23 paper. Inspired by neural collapse, we propose a unified method for class-incremental learning, long-tail class-incremental learning, and few-shot class-incremental learning. 
+
+- **ShadowNet for Data-Centric Quantum System Learning**
+  <br>
+  Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
+  <br>
+  [[PDF](https://arxiv.org/pdf/2308.11290)]
+  <br>
+  *Intro*: We propose a data-centric learning paradigm for physics problems including quantum state tomography and direct fidelity estimation. 
 
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
   <br>
   Xiangtai Li, Shilin Xu, **Yibo Yang#**, Haobo Yuan, Guangliang Cheng, Yunhai Tong, Zhouchen Lin, Ming-Hsuan Yang, Dacheng Tao
   <br>
-  [[arXiv:2301.00954](https://arxiv.org/pdf/2301.00954)]
+  [[PDF](https://arxiv.org/pdf/2301.00954)]
   <br>
   *Intro*: An extended work of our ECCV'22 paper.
 
