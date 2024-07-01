@@ -99,7 +99,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   International Conference on Machine Learning, **ICML, 2024**
   <br>
-  [[PDF](https://arxiv.org/pdf/2406.05222)] [[Code]]
+  [[PDF](https://arxiv.org/pdf/2406.05222)] [Code]
 
 - **Multi-Task Learning with Knowledge Distillation for Dense Prediction**
   <br>
