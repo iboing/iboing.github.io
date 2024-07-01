@@ -19,6 +19,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
+- **[2024/07]** One paper accepted by ECCV 2024.
 - **[2024/05]** One first-author paper accepted by ICML 2024.
 - **[2024/05]** Invited to serve as Area Chair of NeurIPS 2024.
 - **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
@@ -84,13 +85,21 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Conference Papers]
 
+- **GenView: Enhancing View Quality with Pretrained Generative Model for Self-Supervised Learning**
+  <br>
+  Xiaojie Li, **Yibo Yang**, Xiangtai Li, Jianlong Wu, Yue Yu, Bernard Ghanem, Min Zhang
+  <br>
+  European Conference on Computer Vision, **ECCV 2024**
+  <br>
+  [[PDF](https://arxiv.org/pdf/2403.12003)] [[Code](https://github.com/xiaojieli0903/genview)]
+
 - **Towards Interpretable Deep Local Learning with Successive Gradient Reconciliation**
   <br>
   **Yibo Yang**, Xiaojie Li, Motasem Alfarra, Hasan Hammoud, Adel Bibi, Philip Torr, Bernard Ghanem
   <br>
   International Conference on Machine Learning, **ICML, 2024**
   <br>
-  [[PDF](https://arxiv.org/pdf/2406.05222)]
+  [[PDF](https://arxiv.org/pdf/2406.05222)] [[Code]]
 
 - **Multi-Task Learning with Knowledge Distillation for Dense Prediction**
   <br>
