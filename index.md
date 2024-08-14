@@ -19,9 +19,9 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
+- **[2024/08]** Invited to serve as Area Chair of ICLR 2025.
 - **[2024/07]** One paper accepted by ECCV 2024.
-- **[2024/05]** One (first-author) paper accepted by ICML 2024.
-- **[2024/05]** Invited to serve as Area Chair of NeurIPS 2024.
+- **[2024/05]** One (first-author) paper accepted by ICML 2024. Invited to serve as Area Chair of NeurIPS 2024.
 - **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
 - **[2024/01]** Two papers accepted by IEEE TPAMI and IJCV, respectively.
 - **[2023/09]** Invited to serve as Area Chair of ICLR 2024.
@@ -403,7 +403,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 [Area Chair / Senior Program Committee for Conferences]
 
 - Advances in Neural Information Processing Systems (NeurIPS), 2024/2023
-- International Conference on Learning Representations (ICLR), 2024
+- International Conference on Learning Representations (ICLR), 2025/2024
 - International Conference on Artificial Neural Networks (ICANN), 2024
 - Association for the Advancement of Artificial Intelligence (AAAI), 2022
 
