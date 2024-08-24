@@ -125,7 +125,6 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   [[PDF](https://arxiv.org/pdf/2301.01100)] [[Code](https://github.com/NeuralCollapseApplications/Semantic-Segmentation)]
   <br>
-  *Intro*: Inspired by neural collapse, we propose a method that successfully improves the performance of both image and 3D semantic segmentation.
 
 - **Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based Networks**
   <br>
