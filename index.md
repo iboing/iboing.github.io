@@ -65,6 +65,14 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   *Intro*: An extended work of our ICLR'23 paper. Inspired by neural collapse, we propose a unified method for class-incremental learning, long-tail class-incremental learning, and few-shot class-incremental learning. 
 
+- **Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning**
+  <br>
+  Xiaojie Li, **Yibo Yang**, Jianlong Wu, Bernard Ghanem, Liqiang Nie, Min Zhang
+  <br>
+  [[PDF](https://arxiv.org/pdf/2407.06136)]
+  <br>
+  *Intro*: Utilize Mamba to mitigate catastrophic forgetting. 
+
 - **ShadowNet for Data-Centric Quantum System Learning**
   <br>
   Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
