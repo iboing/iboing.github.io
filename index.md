@@ -72,7 +72,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   [[PDF](https://arxiv.org/pdf/2407.06136)] [[Code](https://github.com/xiaojieli0903/Mamba-FSCIL)]
   <br>
-  *Intro*: Utilize Mamba to mitigate catastrophic forgetting. 
+  *Intro*: Utilize Mamba to mitigate catastrophic forgetting in few-shot continual learning. 
 
 - **ShadowNet for Data-Centric Quantum System Learning**
   <br>
