@@ -19,6 +19,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
+- **[2024/09]** One paper accepted by IEEE TPAMI.
 - **[2024/08]** Invited to serve as Area Chair of ICLR 2025.
 - **[2024/07]** One paper accepted by ECCV 2024.
 - **[2024/05]** One (first-author) paper accepted by ICML 2024. Invited to serve as Area Chair of NeurIPS 2024.
@@ -80,14 +81,6 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   [[PDF](https://arxiv.org/pdf/2308.11290)]
   <br>
   *Intro*: We propose a data-centric learning paradigm for physics problems including quantum state tomography and direct fidelity estimation. 
-
- - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
-  <br>
-  Xiangtai Li, Shilin Xu, **Yibo Yang#**, Haobo Yuan, Guangliang Cheng, Yunhai Tong, Zhouchen Lin, Ming-Hsuan Yang, Dacheng Tao
-  <br>
-  [[PDF](https://arxiv.org/pdf/2301.00954)]
-  <br>
-  *Intro*: An extended work of our ECCV'22 paper.
 
 
 
@@ -283,6 +276,15 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br><font color="#d76666">(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
 
 [Journal Papers]
+
+ - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
+  <br>
+  Xiangtai Li, Shilin Xu, **Yibo Yang#**, Haobo Yuan, Guangliang Cheng, Yunhai Tong, Zhouchen Lin, Ming-Hsuan Yang, Dacheng Tao
+  <br>
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10663698)]
+  <br>
 
 - **Towards open vocabulary learning: A survey**
   <br>
