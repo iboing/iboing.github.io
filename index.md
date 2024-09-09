@@ -64,7 +64,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   [[PDF](https://arxiv.org/pdf/2308.01746)] [[Code](https://github.com/NeuralCollapseApplications/UniCIL)]
   <br>
-  *Intro*: An extended work of our ICLR'23 paper. We propose a unified method for class-incremental learning, long-tail class-incremental learning, and few-shot class-incremental learning. 
+  *Intro*: An extended work of our ICLR'23 paper. We propose a unified method for continual learning under different data distribution. 
 
 - **Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning**
   <br>
