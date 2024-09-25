@@ -48,33 +48,6 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 (*: equal contributions; #: corresponding author)
 
-[Pre-prints]
-
-- **Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants**
-  <br>
-  **Yibo Yang**, Haobo Yuan, Xiangtai Li, Jianlong Wu, Lefei Zhang, Zhouchen Lin, Philip Torr, Dacheng Tao, Bernard Ghanem
-  <br>
-  [[PDF](https://arxiv.org/pdf/2308.01746)] [[Code](https://github.com/NeuralCollapseApplications/UniCIL)]
-  <br>
-  *Intro*: An extended work of our ICLR'23 paper. We propose a unified method for continual learning under different data distribution. 
-
-- **Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning**
-  <br>
-  Xiaojie Li, **Yibo Yang**, Jianlong Wu, Bernard Ghanem, Liqiang Nie, Min Zhang
-  <br>
-  [[PDF](https://arxiv.org/pdf/2407.06136)] [[Code](https://github.com/xiaojieli0903/Mamba-FSCIL)]
-  <br>
-  *Intro*: Utilize Mamba to mitigate catastrophic forgetting in few-shot continual learning. 
-
-- **ShadowNet for Data-Centric Quantum System Learning**
-  <br>
-  Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
-  <br>
-  [[PDF](https://arxiv.org/pdf/2308.11290)]
-  <br>
-  *Intro*: We propose a data-centric learning paradigm for physics problems including quantum state tomography and direct fidelity estimation. 
-
-
 
 [Conference Papers]
 
@@ -383,6 +356,34 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   SCIENCE CHINA Information Sciences, (WOS Q1, CCF-A)
   <br>
   [[PDF](https://zhouchenlin.github.io/Publications/2022-SCIS-Optimization-Inspired.pdf)]
+
+
+[Pre-prints]
+
+- **Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants**
+  <br>
+  **Yibo Yang**, Haobo Yuan, Xiangtai Li, Jianlong Wu, Lefei Zhang, Zhouchen Lin, Philip Torr, Dacheng Tao, Bernard Ghanem
+  <br>
+  [[PDF](https://arxiv.org/pdf/2308.01746)] [[Code](https://github.com/NeuralCollapseApplications/UniCIL)]
+  <br>
+  *Intro*: An extended work of our ICLR'23 paper. We propose a unified method for continual learning under different data distribution. 
+
+- **Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning**
+  <br>
+  Xiaojie Li, **Yibo Yang**, Jianlong Wu, Bernard Ghanem, Liqiang Nie, Min Zhang
+  <br>
+  [[PDF](https://arxiv.org/pdf/2407.06136)] [[Code](https://github.com/xiaojieli0903/Mamba-FSCIL)]
+  <br>
+  *Intro*: Utilize Mamba to mitigate catastrophic forgetting in few-shot continual learning. 
+
+- **ShadowNet for Data-Centric Quantum System Learning**
+  <br>
+  Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
+  <br>
+  [[PDF](https://arxiv.org/pdf/2308.11290)]
+  <br>
+  *Intro*: We propose a data-centric learning paradigm for physics problems including quantum state tomography and direct fidelity estimation. 
+
 
 
 ## Honors and Awards
