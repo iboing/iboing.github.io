@@ -19,7 +19,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
-- **[2024/09]** One paper accepted by IEEE TPAMI.
+- **[2024/09]** One paper accepted by IEEE TPAMI. One paper accepted by NeurIPS 2024. 
 - **[2024/08]** Invited to serve as Area Chair of ICLR 2025.
 - **[2024/07]** One paper accepted by ECCV 2024.
 - **[2024/05]** One (first-author) paper accepted by ICML 2024. Invited to serve as Area Chair of NeurIPS 2024.
@@ -50,14 +50,6 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Pre-prints]
 
-- **CorDA: Context-Oriented Decomposition Adaptation of Large Language Models**
-  <br>
-  **Yibo Yang**, Xiaojie Li, Zhongzhu Zhou, Shuaiwen Leon Song, Jianlong Wu, Liqiang Nie, Bernard Ghanem
-  <br>
-  [[PDF](https://arxiv.org/pdf/2406.05223)] [[Code](https://github.com/iboing/CorDA)]
-  <br>
-  *Intro*: We propose a new PEFT method with not only better performance on finetuning task, but also less forgetting of pre-trained world knowledge. 
-
 - **Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants**
   <br>
   **Yibo Yang**, Haobo Yuan, Xiangtai Li, Jianlong Wu, Lefei Zhang, Zhouchen Lin, Philip Torr, Dacheng Tao, Bernard Ghanem
@@ -85,6 +77,16 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 
 [Conference Papers]
+
+- **CorDA: Context-Oriented Decomposition Adaptation of Large Language Models**
+  <br>
+  **Yibo Yang**, Xiaojie Li, Zhongzhu Zhou, Shuaiwen Leon Song, Jianlong Wu, Liqiang Nie, Bernard Ghanem
+  <br>
+  Advances in Neural Information Processing Systems, **NeurIPS 2024**
+  <br>
+  [[PDF](https://arxiv.org/pdf/2406.05223)] [[Code](https://github.com/iboing/CorDA)]
+  <br>
+  *Intro*: We propose a new PEFT method with better performance on finetuning task and less forgetting of pre-trained world knowledge. 
 
 - **GenView: Enhancing View Quality with Pretrained Generative Model for Self-Supervised Learning**
   <br>
