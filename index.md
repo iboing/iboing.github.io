@@ -19,7 +19,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
-- **[2024/09]** One paper accepted by IEEE TPAMI. One paper accepted by NeurIPS 2024. 
+- **[2024/09]** One paper accepted by IEEE TPAMI. One (first-author) paper accepted by NeurIPS 2024. 
 - **[2024/08]** Invited to serve as Area Chair of ICLR 2025.
 - **[2024/07]** One paper accepted by ECCV 2024.
 - **[2024/05]** One (first-author) paper accepted by ICML 2024. Invited to serve as Area Chair of NeurIPS 2024.
