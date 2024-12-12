@@ -19,6 +19,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
+- **[2024/12]** One paper accepted by IEEE TPAMI. 
 - **[2024/09]** One paper accepted by IEEE TPAMI. One (first-author) paper accepted by NeurIPS 2024. 
 - **[2024/08]** Invited to serve as Area Chair of ICLR 2025.
 - **[2024/07]** One paper accepted by ECCV 2024.
@@ -251,6 +252,15 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br><font color="#d76666">(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
 
 [Journal Papers]
+
+ - **RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model**
+  <br>
+  Fengxiang Bie, **Yibo Yang#**, Zhongzhu Zhou, Adam Ghanem, Minjia Zhang, Zhewei Yao, Xiaoxia Wu, Connor Holmes, Pareesa Golnari, David A Clifton, Yuxiong He, Dacheng Tao, Shuaiwen Leon Song
+  <br>
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
+  <br>
+  [PDF]
+  <br>
 
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
   <br>
