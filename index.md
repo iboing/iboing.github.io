@@ -19,7 +19,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
-- **[2024/12]** One paper accepted by IEEE TPAMI. 
+- **[2024/12]** One paper accepted by IEEE TPAMI. CorDA has been integrated into huggingface/peft, see example of how to use in [examples/corda_finetuning](https://github.com/huggingface/peft/tree/main/examples/corda_finetuning).
 - **[2024/09]** One paper accepted by IEEE TPAMI. One (first-author) paper accepted by NeurIPS 2024. 
 - **[2024/08]** Invited to serve as Area Chair of ICLR 2025.
 - **[2024/07]** One paper accepted by ECCV 2024.
@@ -27,15 +27,12 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 - **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
 - **[2024/01]** Two papers accepted by IEEE TPAMI and IJCV, respectively.
 - **[2023/09]** Invited to serve as Area Chair of ICLR 2024.
-- **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics).
-- **[2023/08]** One paper accepted by IJCV.
-- **[2023/07]** One paper accepted by ICCV 2023.
-- **[2023/07]** Two papers accepted by IEEE TCSVT and CMIG, respectively.
+- **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics). One paper accepted by IJCV.
+- **[2023/07]** One paper accepted by ICCV 2023. Two papers accepted by IEEE TCSVT and CMIG, respectively.
 - **[2023/03]** Invited to serve as Area Chair of NeurIPS 2023.
 - **[2023/02]** One paper accepted by CVPR 2023.
-- **[2023/01]** Two (one first-author) papers accepted by ICLR 2023 as spotlights.
+- **[2023/01]** Two (one first-author) papers accepted by ICLR 2023 as spotlights. One paper accepted by Neurocomputing.
 - **[2023/01]** I made a talk at A*STAR-CFAR Rising Star Lecture Series. <!--, see the [[post](https://www.a-star.edu.sg/cfar/events/how-does-neural-collapse-inspire-us-in-reliable-machine-learning)] and [slides] (available upon request). -->
-- **[2023/01]** One paper accepted by Neurocomputing.
 - **[2022/11]** One paper accepted by IEEE TPAMI. One paper accepted by AAAI 2023.
 - **[2022/09]** Two (first-author) papers accepted by NeurIPS 2022.
 - **[2022/09]** One paper accepted by IEEE TPAMI.
@@ -58,7 +55,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Advances in Neural Information Processing Systems, **NeurIPS 2024**
   <br>
-  [[PDF](https://arxiv.org/pdf/2406.05223)] [[Code](https://github.com/iboing/CorDA)]
+  [[PDF](https://arxiv.org/pdf/2406.05223)] [[Code by huggingface/peft (suggested)](https://github.com/huggingface/peft/tree/main/examples/corda_finetuning)] [[Code](https://github.com/iboing/CorDA)]
   <br>
   *Intro*: We propose a new PEFT method with better performance on finetuning task and less forgetting of pre-trained world knowledge. 
 
@@ -259,7 +256,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
   <br>
-  [PDF]
+  [[PDF](https://ieeexplore.ieee.org/document/10817489)]
   <br>
 
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
