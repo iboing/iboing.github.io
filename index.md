@@ -20,7 +20,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
 - **[2025/01]** One paper accepted by ICLR 2025 as Oral. I was ranked among the Stanford World's Top 2% Scientists 2024 list.
-- **[2024/12]** One paper accepted by IEEE TPAMI. CorDA has been integrated into huggingface/peft, see example of how to use in [examples/corda_finetuning](https://github.com/huggingface/peft/tree/main/examples/corda_finetuning).
+- **[2024/12]** One paper accepted by IEEE TPAMI. CorDA has been integrated into [huggingface/peft](https://github.com/huggingface/peft), see example of how to use in [examples/corda_finetuning](https://github.com/huggingface/peft/tree/main/examples/corda_finetuning).
 - **[2024/09]** One paper accepted by IEEE TPAMI. One (first-author) paper accepted by NeurIPS 2024. 
 - **[2024/08]** Invited to serve as Area Chair of ICLR 2025.
 - **[2024/07]** One paper accepted by ECCV 2024.
