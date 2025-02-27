@@ -51,6 +51,20 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Conference Papers]
 
+- **Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization**
+  <br>
+  Sihao Liu, **Yibo Yang#**, Xiaojie Li, David A. Clifton, Bernard Ghanem
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2025**
+  <br>
+
+- **RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything**
+  <br>
+  Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, **Yibo Yang**, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem, Xiangtai Li, Ming-Hsuan Yang
+  <br>
+  International Conference on Learning Representations, **ICLR 2025**, <font color="#d76666">Oral presentation</font>
+  <br>
+
 - **CorDA: Context-Oriented Decomposition Adaptation of Large Language Models**
   <br>
   **Yibo Yang**, Xiaojie Li, Zhongzhu Zhou, Shuaiwen Leon Song, Jianlong Wu, Liqiang Nie, Bernard Ghanem
@@ -251,6 +265,13 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br><font color="#d76666">(This paper also won the second place of the Most Popular Poster Award in VALSE 2018)</font>
 
 [Journal Papers]
+
+ - **Starfish-Inspired Wearable Bioelectronic Systems for Physiological Signal Monitoring During Motion and Real-Time Heart Disease Diagnosis**
+  <br>
+  Sicheng Chen, Qunle Ouyang, Xianglin Meng, **Yibo Yang**, ..., Bernard Ghanem, ...
+  <br>
+  Science Advances
+  <br>
 
  - **RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model**
   <br>
