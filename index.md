@@ -400,6 +400,13 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Pre-prints]
 
+- **Dynamic Context-oriented Decomposition for Task-aware Low-rank Adaptation with Less Forgetting and Faster Convergence**
+  <br>
+  **Yibo Yang**, Sihao Liu, Chuan Rao, Bang An, Tiancheng Shen, Philip H.S. Torr, Ming-Hsuan Yang, Bernard Ghanem
+  <br>
+  [[PDF](https://arxiv.org/pdf/2506.13187)] [[Code](https://github.com/huggingface/peft/tree/main/examples/corda_finetuning)]
+  <br>
+
 - **Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants**
   <br>
   **Yibo Yang**, Haobo Yuan, Xiangtai Li, Jianlong Wu, Lefei Zhang, Zhouchen Lin, Philip Torr, Dacheng Tao, Bernard Ghanem
@@ -422,14 +429,13 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   [[PDF](https://arxiv.org/pdf/2308.11290)]
   <br>
-  *Intro*: We propose a data-centric learning paradigm for physics problems including quantum state tomography and direct fidelity estimation. 
 
 
 
 ## Honors and Awards
 
-
-- [2024] Wuwenjun AI Science & Technology Award in CAAI, First Price of Natural Science, 5-th contributor
+- [2025] Zuchongzhi Outstanding Achievement Award, contributor
+- [2024] Wuwenjun AI Science & Technology Award in CAAI, First Price of Natural Science, contributor
 - [2021] Wuwenjun Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Artificial Intelligence)
 - [2021] First Place Winner of Video+Depth track in Segmenting and Tracking Every Point and Pixel (BMTT 2021 challenge) in ICCV 2021
 - [2021] Outstanding Graduates in Beijing
