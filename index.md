@@ -53,6 +53,11 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Conference Papers]
 
+- **Optimization-Inspired Few-Shot Adaptation for Large Language Models**
+  <br>
+  Advances in Neural Information Processing Systems, **NeurIPS 2025**, <font color="#d76666">Spotlight presentation</font>
+  <br>
+
 - **Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs**
   <br>
   Zitian Wang, Yue Liao, Kang Rong, Fengyun Rao, **Yibo Yang**, Si Liu
