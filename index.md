@@ -55,7 +55,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 - **Optimization-Inspired Few-Shot Adaptation for Large Language Models**
   <br>
-  Advances in Neural Information Processing Systems, **NeurIPS 2025**, <font color="#d76666">Spotlight presentation</font>
+  Advances in Neural Information Processing Systems, **NeurIPS 2025**, <font color="#d76666">Spotlight Presentation</font>
   <br>
 
 - **Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs**
@@ -76,7 +76,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, **Yibo Yang**, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem, Xiangtai Li, Ming-Hsuan Yang
   <br>
-  International Conference on Learning Representations, **ICLR 2025**, <font color="#d76666">Oral presentation</font>
+  International Conference on Learning Representations, **ICLR 2025**, <font color="#d76666">Oral Presentation</font>
   <br>
 
 - **CorDA: Context-Oriented Decomposition Adaptation of Large Language Models**
@@ -126,7 +126,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Lingshen He, Yuxuan Chen, Zhengyang Shen, **Yibo Yang**, Zhouchen Lin
   <br>
-  International Conference on Learning Representations, **ICLR 2023**, <font color="#d76666">spotlight</font>
+  International Conference on Learning Representations, **ICLR 2023**, <font color="#d76666">Spotlight Presentation</font>
   <br>
   [[PDF](https://openreview.net/pdf?id=D1Iqfm7WTkk)] [Code]
 
@@ -134,7 +134,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   **Yibo Yang**, Haobo Yuan, Xiangtai Li, Zhouchen Lin, Philip Torr, Dacheng Tao
   <br>
-  International Conference on Learning Representations, **ICLR 2023**, <font color="#d76666">spotlight</font>
+  International Conference on Learning Representations, **ICLR 2023**, <font color="#d76666">Spotlight Presentation</font>
   <br>
   [[PDF](https://openreview.net/pdf?id=y5W8tpojhtJ)] [[Code](https://github.com/NeuralCollapseApplications/FSCIL)]
 
@@ -284,7 +284,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   Sicheng Chen, Qunle Ouyang, Xianglin Meng, **Yibo Yang**, ..., Bernard Ghanem, ...
   <br>
-  Science Advances (Cover article in *Science Advances Vol. 11, No. 14*)
+  Science Advances (<font color="#d76666">Cover article</font> in *Science Advances Vol. 11, No. 14*)
   <br>
   [[PDF](https://www.science.org/doi/full/10.1126/sciadv.adv2406)]
   <br>
