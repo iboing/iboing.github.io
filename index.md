@@ -19,6 +19,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
+- **[2025/09]** One paper accepted by NeurIPS 2025 as Spotlight. Invited to serve as Area Chiar for ICLR 2026. Our work won Zuchongzhi Outstanding Achievement Award.
 - **[2025/06]** One paper accepted by ICCV 2025. One paper accepted by npj Artificial Intelligence.
 - **[2025/02]** One paper accepted by *Science Advances* as a cover article. One paper accepted by CVPR 2025. Invited to serve as Area Chair of NeurIPS 2025.
 - **[2025/01]** One paper accepted by ICLR 2025 as Oral. I was ranked among the Stanford World's Top 2% Scientists 2024 list.
