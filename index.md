@@ -19,7 +19,8 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
-- **[2025/09]** One paper accepted by NeurIPS 2025 as Spotlight. Invited to serve as Area Chiar for ICLR 2026. Our work won Zuchongzhi Outstanding Achievement Award.
+- **[2025/11]** One paper accepted by SCIENCE CHINA Information Sciences. Recognized as Top-10% Area Chair for NeurIPS 2025. Invited to serve as Area Chair for ICML 2026.
+- **[2025/09]** One paper accepted by NeurIPS 2025 as Spotlight. Invited to serve as Area Chair for ICLR 2026. Our work won Zuchongzhi Outstanding Achievement Award.
 - **[2025/06]** One paper accepted by ICCV 2025. One paper accepted by npj Artificial Intelligence.
 - **[2025/02]** One paper accepted by *Science Advances* as a cover article. One paper accepted by CVPR 2025. Invited to serve as Area Chair of NeurIPS 2025.
 - **[2025/01]** One paper accepted by ICLR 2025 as Oral. I was ranked among the Stanford World's Top 2% Scientists 2024 list.
@@ -55,12 +56,14 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 - **Optimization-Inspired Few-Shot Adaptation for Large Language Models**
   <br>
+  Boyan Gaog#, Xin Wang, **Yibo Yang#**, David A. Clifton
+  <br>
   Advances in Neural Information Processing Systems, **NeurIPS 2025**, <font color="#d76666">Spotlight Presentation</font>
   <br>
 
 - **Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs**
   <br>
-  Zitian Wang, Yue Liao, Kang Rong, Fengyun Rao, **Yibo Yang**, Si Liu
+  Zitian Wang, Yue Liao#, Kang Rong, Fengyun Rao, **Yibo Yangg#****, Si Liu
   <br>
   International Conference in Computer Vision, **ICCV, 2025**
   <br>
@@ -91,7 +94,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 - **GenView: Enhancing View Quality with Pretrained Generative Model for Self-Supervised Learning**
   <br>
-  Xiaojie Li, **Yibo Yang#**, Xiangtai Li, Jianlong Wu, Yue Yu, Bernard Ghanem, Min Zhang
+  Xiaojie Li, **Yibo Yang#**, Xiangtai Li, Jianlong Wu#, Yue Yu, Bernard Ghanem, Min Zhang
   <br>
   European Conference on Computer Vision, **ECCV 2024**
   <br>
@@ -188,7 +191,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 - **PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation**
   <br>
-  Haobo Yuan, Xiangtai Li, **Yibo Yang#**, Giangliang Cheng, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao
+  Haobo Yuan, Xiangtai Li, **Yibo Yang#**, Giangliang Cheng, Jing Zhang, Yunhai Tong, Lefei Zhang#, Dacheng Tao
   <br>
   European Conference on Computer Vision, **ECCV 2022**
   <br>
@@ -280,6 +283,13 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Journal Papers]
 
+ - **Task Prior Attention Network for Multi-Task Learning of Dense Prediction**
+   <br>
+ Yangyang Xu, **Yibo Yang**, Lefei Zhang, Bo Du
+  <br>
+  SCIENCE CHINA Information Sciences
+  <br>
+
  - **Starfish-Inspired Wearable Bioelectronic Systems for Physiological Signal Monitoring During Motion and Real-Time Heart Disease Diagnosis**
   <br>
   Sicheng Chen, Qunle Ouyang, Xianglin Meng, **Yibo Yang**, ..., Bernard Ghanem, ...
@@ -291,7 +301,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
  - **RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model**
   <br>
-  Fengxiang Bie, **Yibo Yang#**, Zhongzhu Zhou, Adam Ghanem, Minjia Zhang, Zhewei Yao, Xiaoxia Wu, Connor Holmes, Pareesa Golnari, David A Clifton, Yuxiong He, Dacheng Tao, Shuaiwen Leon Song
+  Fengxiang Bie, **Yibo Yang#**, Zhongzhu Zhou, Adam Ghanem, Minjia Zhang, Zhewei Yao, Xiaoxia Wu, Connor Holmes, Pareesa Golnari, David A Clifton, Yuxiong He, Dacheng Tao, Shuaiwen Leon Song#
   <br>
   IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
   <br>
@@ -300,7 +310,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
  - **PanopticPartFormer++: A Unified and Decoupled View for Panoptic Part Segmentation**
   <br>
-  Xiangtai Li, Shilin Xu, **Yibo Yang#**, Haobo Yuan, Guangliang Cheng, Yunhai Tong, Zhouchen Lin, Ming-Hsuan Yang, Dacheng Tao
+  Xiangtai Li, Shilin Xu, **Yibo Yang#**, Haobo Yuan, Guangliang Cheng, Yunhai Tong#, Zhouchen Lin, Ming-Hsuan Yang, Dacheng Tao
   <br>
   IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
   <br>
@@ -439,7 +449,8 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 
 ## Honors and Awards
-
+- Stanford World’s Top 2% Scientists 2025/2024
+- [2025] Top 10% Area Chair for NeurIPS 2025
 - [2025] Zuchongzhi Outstanding Achievement Award, contributor
 - [2024] Wuwenjun AI Science & Technology Award in CAAI, First Price of Natural Science, contributor
 - [2021] Wuwenjun Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Artificial Intelligence)
@@ -459,16 +470,18 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Reviewer for Journals]
 
+- Proceedings of the National Academy of Sciences of the United States of America (PNAS)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
 - International Journal of Computer Vision (IJCV);
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
 - IEEE Transactions on Image Processing (TIP);
 
-[Area Chair / Senior Program Committee for Conferences]
+[Area Chair for Conferences]
 
-- Advances in Neural Information Processing Systems (NeurIPS), 2024/2023
-- International Conference on Learning Representations (ICLR), 2025/2024
-- International Conference on Artificial Neural Networks (ICANN), 2024
+- International Conference on Machine Learning (ICML), 2026
+- Advances in Neural Information Processing Systems (NeurIPS), 2025/2024/2023
+- International Conference on Learning Representations (ICLR), 2026/2025/2024
+- International Conference on Artificial Neural Networks (ICANN), 2025/2024
 - Association for the Advancement of Artificial Intelligence (AAAI), 2022
 
 [Reviewer for Conferences]
