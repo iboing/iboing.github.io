@@ -19,7 +19,8 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
-- **[2025/11]** One paper accepted by SCIENCE CHINA Information Sciences. Recognized as Top-10% Area Chair for NeurIPS 2025. Invited to serve as Area Chair for ICML 2026.
+- **[2026/01]** Three papers accepted by ICLR 2026.
+- **[2025/11]** One paper accepted by SCIENCE CHINA Information Sciences. Recognized as Top-10% Area Chair for NeurIPS 2025. Invited to serve as Area Chair for ICML 2026 and ACL ARR.
 - **[2025/09]** One paper accepted by NeurIPS 2025 as Spotlight. Invited to serve as Area Chair for ICLR 2026. Our work won Zuchongzhi Outstanding Achievement Award.
 - **[2025/06]** One paper accepted by ICCV 2025. One paper accepted by npj Artificial Intelligence.
 - **[2025/02]** One paper accepted by *Science Advances* as a cover article. One paper accepted by CVPR 2025. Invited to serve as Area Chair of NeurIPS 2025.
@@ -54,6 +55,29 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Conference Papers]
 
+- **A Guardrail for Safety Preservation: When Safety-Sensitive Subspace Meets Harmful-Resistant Null-Space**
+  <br>
+  Bingjie Zhang, **Yibo Yang#**, Renzhe, Dandan Guo#, Jindong Gu, Philip Torr, Bernard Ghanem 
+  <br>
+  International Conference on Learning Representations, **ICLR 2026**
+  <br>
+
+- **CARE: Covariance-Aware and Rank-Enhanced Decomposition for Enabling Multi-Head Latent Attention**
+  <br>
+  Zhongzhu Zhou, Fengxiang Bie, Ziyan Chen, Zhenyu Zhang, **Yibo Yang**, Junxiong Wang, Ben Athiwaratkun, Xiaoxia Wu, Shuaiwen Leon Song 
+  <br>
+  International Conference on Learning Representations, **ICLR 2026**
+  <br>
+
+- **Imitating the Truth: Attention-aware Truth-Guided Enhancement for Hallucination Mitigation in Large Vision-Language Models**
+  <br>
+  Hairui Ren, Zixuan Wang, **Yibo Yang**, He Zhao, Fan Tang, Dandan Guo, Yi Chang 
+  <br>
+  International Conference on Learning Representations, **ICLR 2026**
+  <br>
+
+
+
 - **Optimization-Inspired Few-Shot Adaptation for Large Language Models**
   <br>
   Boyan Gaog#, Xin Wang, **Yibo Yang#**, David A. Clifton
@@ -63,7 +87,7 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 - **Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs**
   <br>
-  Zitian Wang, Yue Liao#, Kang Rong, Fengyun Rao, **Yibo Yangg#****, Si Liu
+  Zitian Wang, Yue Liao#, Kang Rong, Fengyun Rao, **Yibo Yang#**, Si Liu
   <br>
   International Conference in Computer Vision, **ICCV, 2025**
   <br>
