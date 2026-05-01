@@ -19,8 +19,9 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
-- **[2026/01]** Three papers accepted by ICLR 2026.
-- **[2025/11]** One paper accepted by SCIENCE CHINA Information Sciences. Recognized as Top-10% Area Chair for NeurIPS 2025. Invited to serve as Area Chair for ICML 2026 and ACL ARR.
+- **[2026/05]** One paper accepted by ICML 2026; Two papers accepted by ACL 2026.
+- **[2026/01]** Three papers accepted by ICLR 2026. One paper accepted by SCIENCE CHINA Information Sciences.
+- **[2025/11]** Recognized as Top-10% Area Chair for NeurIPS 2025. Invited to serve as Area Chair for ICML 2026 and ACL ARR.
 - **[2025/09]** One paper accepted by NeurIPS 2025 as Spotlight. Invited to serve as Area Chair for ICLR 2026. Our work won Zuchongzhi Outstanding Achievement Award.
 - **[2025/06]** One paper accepted by ICCV 2025. One paper accepted by npj Artificial Intelligence.
 - **[2025/02]** One paper accepted by *Science Advances* as a cover article. One paper accepted by CVPR 2025. Invited to serve as Area Chair of NeurIPS 2025.
