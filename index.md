@@ -4,14 +4,15 @@ layout: homepage
 
 ## About Me
 
-Currently, I am a Research Scientist in King Abdullah University of Science and Technology (KAUST). I obtained my Ph.D. degree at Center for Data Science, Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/) in 2021. I have also worked as a Research Scientist in JD Explore Academy. 
+I am an Associate Professor at the School of Artificial Intelligence, Shanghai Jiao Tong University. I received my Ph.D. from Peking University in 2021, under the supervision of Prof. Zhouchen Lin. Prior to joining SJTU, I conducted research at JD Explore Academy, KAUST, and the University of Oxford.
 
 ## Research Interests
 
-- **Reliable Machine Learning**
-- **Interpretable Neural Network**
-- **AI for Science / Healthcare**
-- **Unified Visual Understanding**
+My research aims to develop intelligent systems that can continuously learn and improve while remaining trustworthy and interpretable. Specifically, my research interests include, but are not limited to:
+
+- Continual Learning and Self-Improving AI
+- Interpretable and Trustworthy Machine Intelligence
+- Interdisciplinary AI Research
 
 ## News
 
@@ -19,6 +20,8 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
+- **[2026/10]** Three papers accepted by IEEE TPAMI. One paper accepted by EMNLP 2026.
+- **[2026/08]** I joined SJTU as an Associate Professor.
 - **[2026/05]** One paper accepted by ICML 2026; Two papers accepted by ACL 2026.
 - **[2026/01]** Three papers accepted by ICLR 2026. One paper accepted by SCIENCE CHINA Information Sciences.
 - **[2025/11]** Recognized as Top-10% Area Chair for NeurIPS 2025. Invited to serve as Area Chair for ICML 2026 and ACL ARR.
@@ -56,6 +59,34 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Conference Papers]
 
+- **Mitigating Model Merging Conflicts via Knowledge-Aware Task Vector Purification**
+  <br>
+  Bang An,  **Yibo Yang#**, Philip Torr, Bernard Ghanem
+  <br>
+  Empirical Methods in Natural Language Processing, **EMNLP 2026**
+  <br>
+
+- **PDR: A Plug-and-Play Positional Decay Framework for LLM Pre-training Data Detection**
+  <br>
+  Jinhan Liu, **Yibo Yang**, Ruiying Lu, Piotr Piekos, Yimeng Chen, Peng Wang, Dandan Guo
+  <br>
+  Annual Meeting of the Association for Computational Linguistics, **ACL 2026**
+  <br>
+
+- **Safeguarding LLM Fine-tuning via Push-Pull Distributional Alignment**
+  <br>
+  Haozhong Wang, Zhuo Li, **Yibo Yang**, He Zhao, Hongyuan Zha, Dandan Guo
+  <br>
+  Annual Meeting of the Association for Computational Linguistics, **ACL 2026**
+  <br>
+
+- **Benchmarking at the Edge of Comprehension**
+  <br>
+  Samuele Marro, Jialin Yu, Emanuele La Malfa, Oishi Deb, Jiawei Li, **Yibo Yang**, Ebey Abraham, Sunando Sengupta, Eric Sommerlade, Michael Wooldridge, Philip Torr
+  <br>
+  International Conference on Machine Learning,, **ICML 2026**
+  <br>
+
 - **A Guardrail for Safety Preservation: When Safety-Sensitive Subspace Meets Harmful-Resistant Null-Space**
   <br>
   Bingjie Zhang, **Yibo Yang#**, Renzhe, Dandan Guo#, Jindong Gu, Philip Torr, Bernard Ghanem 
@@ -76,8 +107,6 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   International Conference on Learning Representations, **ICLR 2026**
   <br>
-
-
 
 - **Optimization-Inspired Few-Shot Adaptation for Large Language Models**
   <br>
@@ -308,11 +337,46 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
 
 [Journal Papers]
 
+- **SpecGradFilter: A Spectral Gradient Filtering Framework for Taming Federated Heterogeneity**
+  <br>
+  Liyang Yuan, **Yibo Yang**, Dandan Guo, Peter Richtarik, Zhouchen Lin
+  <br>
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
+  <br>
+
+- **Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning**
+  <br>
+  Xiaojie Li, **Yibo Yang**, Jianlong Wu, Bernard Ghanem, Liqiang Nie, Min Zhang
+  <br>
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
+  <br>
+
+- **ShadowNet for Data-Centric Quantum System Learning**
+  <br>
+  Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
+  <br>
+  IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI)
+  <br>
+
+ - **DeGMix: Efficient multi-task dense prediction with deformable and gating mixer**
+   <br>
+ Yangyang Xu, **Yibo Yang**, Bernard Ghanem, Lefei Zhang, Bo Du, Jun Zhu
+  <br>
+  IEEE Transactions on Circuits and Systems for Video Technology
+  <br>
+
  - **Task Prior Attention Network for Multi-Task Learning of Dense Prediction**
    <br>
  Yangyang Xu, **Yibo Yang**, Lefei Zhang, Bo Du
   <br>
   SCIENCE CHINA Information Sciences
+  <br>
+
+ - **Deep Neural Network Calibration by Reducing Classifier Shift with Stochastic Masking**
+   <br>
+   Jiani Ni, He Zhao,  **Yibo Yang**, Dandan Guo
+  <br>
+  Pattern Recognition  
   <br>
 
  - **Starfish-Inspired Wearable Bioelectronic Systems for Physiological Signal Monitoring During Motion and Real-Time Heart Disease Diagnosis**
@@ -456,25 +520,12 @@ Currently, I am a Research Scientist in King Abdullah University of Science and 
   <br>
   *Intro*: An extended work of our ICLR'23 paper. We propose a unified method for continual learning under different data distribution. 
 
-- **Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning**
-  <br>
-  Xiaojie Li, **Yibo Yang**, Jianlong Wu, Bernard Ghanem, Liqiang Nie, Min Zhang
-  <br>
-  [[PDF](https://arxiv.org/pdf/2407.06136)] [[Code](https://github.com/xiaojieli0903/Mamba-FSCIL)]
-  <br>
-  *Intro*: Utilize Mamba to mitigate catastrophic forgetting in few-shot continual learning. 
 
-- **ShadowNet for Data-Centric Quantum System Learning**
-  <br>
-  Yuxuan Du, **Yibo Yang**, Tongliang Liu, Zhouchen Lin, Bernard Ghanem, Dacheng Tao
-  <br>
-  [[PDF](https://arxiv.org/pdf/2308.11290)]
-  <br>
 
 
 
 ## Honors and Awards
-- Stanford World’s Top 2% Scientists 2025/2024
+- Stanford World’s Top 2% Scientists 2026/2025/2024
 - [2025] Top 10% Area Chair for NeurIPS 2025
 - [2025] Zuchongzhi Outstanding Achievement Award, contributor
 - [2024] Wuwenjun AI Science & Technology Award in CAAI, First Price of Natural Science, contributor
