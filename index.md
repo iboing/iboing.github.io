@@ -530,8 +530,8 @@ My research aims to develop intelligent systems that can continuously learn and 
 ## Honors and Awards
 - Stanford World’s Top 2% Scientists 2026/2025/2024
 - [2025] Top 10% Area Chair for NeurIPS 2025
-- [2025] Zuchongzhi Outstanding Achievement Award, contributor
-- [2024] Wuwenjun AI Science & Technology Award in CAAI (吴文俊人工智能科学技术奖), First Prize of Natural Science (自然科学一等奖), 5/5;
+- [2025] Zuchongzhi Outstanding Achievement Award ("祖冲之奖"年度突出成果奖), 7/7
+- [2024] Wuwenjun AI Science & Technology Award in CAAI (吴文俊人工智能科学技术奖), First Prize of Natural Science (自然科学一等奖), 5/5
 - [2021] Wuwenjun Outstanding Ph.D. Dissertation Award in CAAI (中国人工智能学会优秀博士学位论文)
 - [2021] First Place Winner of Video+Depth track in Segmenting and Tracking Every Point and Pixel (BMTT 2021 challenge) in ICCV 2021
 - [2021] Outstanding Graduates in Beijing
