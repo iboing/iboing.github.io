@@ -21,7 +21,7 @@ My research aims to develop intelligent systems that can continuously learn and 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
 - **[2026/10]** Three papers accepted by IEEE TPAMI. One paper accepted by EMNLP 2026.
-- **[2026/08]** I joined SJTU as an Associate Professor.
+- **[2026/09]** I joined SJTU as an Associate Professor.
 - **[2026/05]** One paper accepted by ICML 2026; Two papers accepted by ACL 2026.
 - **[2026/01]** Three papers accepted by ICLR 2026. One paper accepted by SCIENCE CHINA Information Sciences.
 - **[2025/11]** Recognized as Top-10% Area Chair for NeurIPS 2025. Invited to serve as Area Chair for ICML 2026 and ACL ARR.
@@ -84,7 +84,7 @@ My research aims to develop intelligent systems that can continuously learn and 
   <br>
   Samuele Marro, Jialin Yu, Emanuele La Malfa, Oishi Deb, Jiawei Li, **Yibo Yang**, Ebey Abraham, Sunando Sengupta, Eric Sommerlade, Michael Wooldridge, Philip Torr
   <br>
-  International Conference on Machine Learning,, **ICML 2026**
+  International Conference on Machine Learning, **ICML 2026**, <font color="#d76666">Oral Presentation</font>
   <br>
 
 - **A Guardrail for Safety Preservation: When Safety-Sensitive Subspace Meets Harmful-Resistant Null-Space**
@@ -376,7 +376,7 @@ My research aims to develop intelligent systems that can continuously learn and 
    <br>
    Jiani Ni, He Zhao,  **Yibo Yang**, Dandan Guo
   <br>
-  Pattern Recognition  
+  Pattern Recognition
   <br>
 
  - **Starfish-Inspired Wearable Bioelectronic Systems for Physiological Signal Monitoring During Motion and Real-Time Heart Disease Diagnosis**
