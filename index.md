@@ -9,12 +9,13 @@ I am an Associate Professor at the School of Artificial Intelligence, Shanghai J
 ## Research Interests
 
 My research aims to develop intelligent systems that can continuously learn and improve while remaining trustworthy and interpretable. Specifically, my research interests include, but are not limited to:
-
 - Continual Learning and Self-Improving AI
 - Interpretable and Trustworthy Machine Intelligence
 - Interdisciplinary AI Research
 
 ## News
+
+<div class="news-scroll" markdown="1" tabindex="0" role="region" aria-label="News">
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
 
@@ -51,6 +52,8 @@ My research aims to develop intelligent systems that can continuously learn and 
 - **[2022/02]** I won the 2021 Wuwenjun-Outstanding Ph.D. Dissertation Award from CAAI.
 - **[2021/11]** We won the First Place Winner in Video+Depth track of BMTT 2021 challenge.
 - **[2021/07]** I obtained my Ph.D. degree from Peking University.
+
+</div>
 
 ## Selected Publications
 
