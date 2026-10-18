@@ -35,7 +35,7 @@ My research aims to develop intelligent systems that can continuously learn and 
 - **[2024/08]** Invited to serve as Area Chair of ICLR 2025.
 - **[2024/07]** One paper accepted by ECCV 2024.
 - **[2024/05]** One (first-author) paper accepted by ICML 2024. Invited to serve as Area Chair of NeurIPS 2024.
-- **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Price of Natural Science, from CAAI.
+- **[2024/03]** We won the 2023 Wuwenjun AI Science & Technology Award, First Prize of Natural Science, from CAAI.
 - **[2024/01]** Two papers accepted by IEEE TPAMI and IJCV, respectively.
 - **[2023/09]** Invited to serve as Area Chair of ICLR 2024.
 - **[2023/08]** One paper about AI4Science and neural collapse accepted by Physical Review Letters (PRL, a flagship journal in physics). One paper accepted by IJCV.
@@ -113,7 +113,7 @@ My research aims to develop intelligent systems that can continuously learn and 
 
 - **Optimization-Inspired Few-Shot Adaptation for Large Language Models**
   <br>
-  Boyan Gaog#, Xin Wang, **Yibo Yang#**, David A. Clifton
+  Boyan Gao#, Xin Wang, **Yibo Yang#**, David A. Clifton
   <br>
   Advances in Neural Information Processing Systems, **NeurIPS 2025**, <font color="#d76666">Spotlight Presentation</font>
   <br>
@@ -531,8 +531,8 @@ My research aims to develop intelligent systems that can continuously learn and 
 - Stanford World’s Top 2% Scientists 2026/2025/2024
 - [2025] Top 10% Area Chair for NeurIPS 2025
 - [2025] Zuchongzhi Outstanding Achievement Award, contributor
-- [2024] Wuwenjun AI Science & Technology Award in CAAI, First Price of Natural Science, contributor
-- [2021] Wuwenjun Outstanding Ph.D. Dissertation Award in CAAI (Chinese Association for Artificial Intelligence)
+- [2024] Wuwenjun AI Science & Technology Award in CAAI (吴文俊人工智能科学技术奖), First Prize of Natural Science (自然科学一等奖), 5/5;
+- [2021] Wuwenjun Outstanding Ph.D. Dissertation Award in CAAI (中国人工智能学会优秀博士学位论文)
 - [2021] First Place Winner of Video+Depth track in Segmenting and Tracking Every Point and Pixel (BMTT 2021 challenge) in ICCV 2021
 - [2021] Outstanding Graduates in Beijing
 - [2021] Outstanding Graduates in Peking University
