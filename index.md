@@ -15,6 +15,8 @@ My research aims to develop intelligent systems that can continuously learn and 
 
 ## News
 
+<p class="news-scroll-hint">Scroll for earlier updates ↓</p>
+
 <div class="news-scroll" markdown="1" tabindex="0" role="region" aria-label="News">
 
 <!-- - **[Now]** <font color="red"><i class="fas fa-exclamation-triangle fa-fw mr-2"></i></font> Looking For Postdoc/Research/Academic Positions!-->
