@@ -30,7 +30,7 @@
   background: #5e7083;
 }
 
-@supports not selector(::-webkit-scrollbar) {
+@supports (-moz-appearance: none) {
   .news-scroll {
     scrollbar-width: auto;
     scrollbar-color: #8896a5 #edf0f3;
