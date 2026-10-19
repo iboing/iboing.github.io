@@ -16,8 +16,8 @@ My research aims to develop intelligent systems that can continuously learn and 
 <aside class="recruitment-note" aria-labelledby="recruitment-title">
   <h3 id="recruitment-title">Join My Group</h3>
   <p>I am actively recruiting research interns and research assistants who are interested in the research areas above.</p>
-  <p>For prospective Master's and Ph.D. students, I generally prioritize candidates who have worked with me for at least three months.</p>
-  <p class="recruitment-footnote">I apologize in advance if I cannot respond to every email individually.</p>
+  <p>For prospective Master's and Ph.D. students, I encourage an initial research collaboration, which will give your application priority consideration.</p>
+  <p>I apologize in advance if I cannot respond to every email individually.</p>
 </aside>
 
 ## News
