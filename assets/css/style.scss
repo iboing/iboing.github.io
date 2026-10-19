@@ -3,6 +3,35 @@
 
 @import "minimal-light";
 
+.recruitment-note {
+  margin: 0 0 24px;
+  padding: 16px 20px;
+  background: #f3f7fb;
+  border-left: 3px solid #39c;
+  border-radius: 0 6px 6px 0;
+}
+
+.recruitment-note h3 {
+  margin: 0 0 10px;
+  font-size: 18px;
+}
+
+.recruitment-note p {
+  margin: 0 0 10px;
+}
+
+.recruitment-note .recruitment-footnote {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .recruitment-note {
+    background: #282e3a;
+    border-left-color: #3eb7f0;
+  }
+}
+
 .news-scroll {
   max-height: 300px;
   overflow-y: scroll;
