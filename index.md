@@ -30,7 +30,7 @@ My research aims to develop intelligent systems that can continuously learn and 
 
 <!-- <i class="fas fa-exclamation-triangle fa-fw mr-2" style="display:inline;color:red"></i>  -->
 
-- **[2026/10]** Three papers accepted by IEEE TPAMI. One paper accepted by EMNLP 2026.
+- **[2026/10]** Three papers accepted by IEEE TPAMI. One paper accepted by EMNLP 2026. Invited to serve as Senior Area Chair (SAC) of ICML 2027.
 - **[2026/09]** I joined SJTU as an Associate Professor.
 - **[2026/05]** One paper accepted by ICML 2026; Two papers accepted by ACL 2026.
 - **[2026/01]** Three papers accepted by ICLR 2026. One paper accepted by SCIENCE CHINA Information Sciences.
