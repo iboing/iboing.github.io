@@ -8,7 +8,7 @@ I am an Associate Professor at the School of Artificial Intelligence, Shanghai J
 
 ## Research Interests
 
-My research aims to develop intelligent systems that can continuously learn and improve while remaining trustworthy and interpretable. Specifically, my research interests include, but are not limited to:
+My research aims to develop intelligent systems that can continuously learn and improve without forgetting previously acquired knowledge and capabilities, while remaining trustworthy and interpretable. Specifically, my research interests include, but are not limited to:
 - Continual Learning and Self-Improving AI
 - Interpretable and Trustworthy Machine Intelligence
 - Interdisciplinary AI Research
